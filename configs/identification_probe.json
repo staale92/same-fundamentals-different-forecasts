@@ -1,0 +1,31 @@
+{
+  "analysis_type": "exploratory",
+  "panel": "data/processed/sec_quarterly_confirmation.jsonl",
+  "identities": "data/processed/firm_identities.json",
+  "models": [
+    "meta-llama/Llama-3.1-8B-Instruct",
+    "meta-llama/Llama-3.1-70B-Instruct"
+  ],
+  "arms": ["N", "NC", "R", "Q"],
+  "exposure_cutoff": "2023-12-31",
+  "system_message": "You are a financial analyst.",
+  "free_text": {
+    "question": "Which publicly listed US company reported these financial statements? Answer with the company name and stock ticker only.",
+    "temperature": 0,
+    "max_tokens": 32,
+    "scoring": "Match an upper-case SEC ticker as a separate token, or a normalized current or post-2019 former SEC entity name with legal suffixes removed."
+  },
+  "forced_choice": {
+    "question": "Which of these companies reported these financial statements?",
+    "answer_instruction": "Answer with one letter.",
+    "letters": "ABCDE",
+    "candidate_count": 5,
+    "candidate_selection": "Sample four distractors without replacement from the sorted primary-panel firm identifiers excluding the true firm, append the true firm, then shuffle with the same generator.",
+    "random_generator": "random.Random(f'{observation_id}|choices')",
+    "candidate_names": "Current SEC entity names; convert all-capital names to title case.",
+    "candidate_reuse": "The candidate set and order are identical across arms and models for each observation.",
+    "scoring": "Choose the letter with the largest saved answer-token log probability; normalize over A-E for the probability on the true firm.",
+    "chance_accuracy": 0.2
+  },
+  "inference": "CR1 firm-clustered 95% intervals for rates and contrasts."
+}

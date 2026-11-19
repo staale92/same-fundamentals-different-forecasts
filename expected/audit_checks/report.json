@@ -1,0 +1,418 @@
+{
+  "Llama 3.1 8B": {
+    "probe_correlation": {
+      "n": 1592,
+      "pearson": 0.8377229860997494,
+      "spearman": 0.8080021700117923
+    },
+    "moving_splits": [
+      {
+        "estimate": -0.007905921693084619,
+        "firm_low": -0.02151903558476595,
+        "firm_high": 0.0057071921985967135,
+        "cell": "exposed",
+        "split_after": "2021Q1"
+      },
+      {
+        "estimate": -0.00670937796440518,
+        "firm_low": -0.016176628799714612,
+        "firm_high": 0.0027578728709042512,
+        "cell": "exposed",
+        "split_after": "2021Q2"
+      },
+      {
+        "estimate": -0.0035264496585187015,
+        "firm_low": -0.011712621996964313,
+        "firm_high": 0.004659722679926909,
+        "cell": "exposed",
+        "split_after": "2021Q3"
+      },
+      {
+        "estimate": -0.003440093119628218,
+        "firm_low": -0.012236718007140521,
+        "firm_high": 0.0053565317678840865,
+        "cell": "exposed",
+        "split_after": "2022Q1"
+      },
+      {
+        "estimate": -0.0020813360198979466,
+        "firm_low": -0.009313926507182992,
+        "firm_high": 0.005151254467387099,
+        "cell": "exposed",
+        "split_after": "2022Q2"
+      },
+      {
+        "estimate": -0.004202360646384715,
+        "firm_low": -0.011903452495596899,
+        "firm_high": 0.003498731202827468,
+        "cell": "exposed",
+        "split_after": "2022Q3"
+      },
+      {
+        "estimate": 0.0007433892971488113,
+        "firm_low": -0.008021063659428647,
+        "firm_high": 0.00950784225372627,
+        "cell": "exposed",
+        "split_after": "2023Q1"
+      },
+      {
+        "estimate": 0.009370800387391857,
+        "firm_low": -0.0036408895876634713,
+        "firm_high": 0.022382490362447185,
+        "cell": "exposed",
+        "split_after": "2023Q2"
+      },
+      {
+        "estimate": 0.005229482453723773,
+        "firm_low": -0.009510116516318699,
+        "firm_high": 0.019969081423766244,
+        "cell": "unexposed",
+        "split_after": "2024Q1"
+      },
+      {
+        "estimate": 0.009395110659535025,
+        "firm_low": -0.00019321821342896048,
+        "firm_high": 0.01898343953249901,
+        "cell": "unexposed",
+        "split_after": "2024Q2"
+      },
+      {
+        "estimate": 0.001713140164623568,
+        "firm_low": -0.007500816153608919,
+        "firm_high": 0.010927096482856056,
+        "cell": "unexposed",
+        "split_after": "2024Q3"
+      },
+      {
+        "estimate": 0.0014997940039212245,
+        "firm_low": -0.007450801893606586,
+        "firm_high": 0.010450389901449036,
+        "cell": "unexposed",
+        "split_after": "2025Q1"
+      },
+      {
+        "estimate": -0.000544094587066796,
+        "firm_low": -0.009601641716447418,
+        "firm_high": 0.008513452542313825,
+        "cell": "unexposed",
+        "split_after": "2025Q2"
+      },
+      {
+        "estimate": 0.00017324028301134273,
+        "firm_low": -0.010008993208148464,
+        "firm_high": 0.010355473774171151,
+        "cell": "unexposed",
+        "split_after": "2025Q3"
+      },
+      {
+        "estimate": -0.007691394408425681,
+        "firm_low": -0.018309095225927864,
+        "firm_high": 0.0029263064090765036,
+        "cell": "unexposed",
+        "split_after": "2026Q1"
+      }
+    ],
+    "M_primary_panel": 0.009395110659535025,
+    "bound_primary_panel": {
+      "rho_0": 0.019820681937364644,
+      "rho_hat": 0.023335430606517295
+    },
+    "alternative_placebos": {
+      "NC against N_id": {
+        "estimate": 0.006683244253948765,
+        "wcr_low": 0.0007801486207679748,
+        "wcr_high": 0.012586339887129556,
+        "firm_low": 0.0008315136348067062,
+        "firm_high": 0.012534974873090824
+      },
+      "NC against NP": {
+        "estimate": 0.0028053064333009277,
+        "wcr_low": -0.004918595257371126,
+        "wcr_high": 0.010529208123972983,
+        "firm_low": -0.004851386737735238,
+        "firm_high": 0.010461999604337094
+      },
+      "N_p1 against N_id": {
+        "estimate": 0.002308911443124633,
+        "wcr_low": -0.0010373580293573867,
+        "wcr_high": 0.0056551809156066505,
+        "firm_low": -0.0010932960918868212,
+        "firm_high": 0.005711118978136087
+      },
+      "NP against N_id": {
+        "estimate": 0.0038779378206478385,
+        "wcr_low": -0.0037321775594261787,
+        "wcr_high": 0.011488053200721854,
+        "firm_low": -0.0038593923917902458,
+        "firm_high": 0.011615268033085923
+      },
+      "N_p2 against N_id": {
+        "estimate": 0.0018868164183251613,
+        "wcr_low": -0.0023987077367497184,
+        "wcr_high": 0.006172340573400041,
+        "firm_low": -0.0024703468919729746,
+        "firm_high": 0.006243979728623297
+      }
+    },
+    "prominence": {
+      "triple_difference": {
+        "estimate": 0.009096814701135656,
+        "firm_low": -0.0038329349241712756,
+        "firm_high": 0.022026564326442587
+      },
+      "theta_by_size": {
+        "top_tercile": {
+          "estimate": 0.01032377885864109,
+          "firm_low": -0.000623132526138782,
+          "firm_high": 0.02127069024342096,
+          "firms": 36
+        },
+        "bottom_two_terciles": {
+          "estimate": 0.0012269641575054268,
+          "firm_low": -0.006248389595159023,
+          "firm_high": 0.008702317910169876,
+          "firms": 71
+        }
+      },
+      "missing_assets_firms": 0
+    },
+    "aggregation": {
+      "prob_avg": {
+        "brier": 0.23654728157961064,
+        "share_far": 0.7223618090452262,
+        "mean_forecast": 0.6080924327392457
+      },
+      "logit_avg": {
+        "brier": 0.24383147250250517,
+        "share_far": 0.7977386934673367,
+        "mean_forecast": 0.6220158806315611
+      },
+      "cal_prob_avg": {
+        "brier": 0.39490999422530554,
+        "share_far": 0.8071608040201005,
+        "mean_forecast": 0.22280646320045847
+      },
+      "cal_logit_avg": {
+        "brier": 0.397282730105335,
+        "share_far": 0.8077889447236181,
+        "mean_forecast": 0.2198771489215399
+      },
+      "n": 1592
+    }
+  },
+  "Llama 3.1 70B": {
+    "probe_correlation": {
+      "n": 1592,
+      "pearson": 0.9153577643300524,
+      "spearman": 0.8625064977643682
+    },
+    "moving_splits": [
+      {
+        "estimate": -0.06307820524958474,
+        "firm_low": -0.10251111892756007,
+        "firm_high": -0.023645291571609404,
+        "cell": "exposed",
+        "split_after": "2021Q1"
+      },
+      {
+        "estimate": -0.04139101577471947,
+        "firm_low": -0.0639442552430506,
+        "firm_high": -0.01883777630638835,
+        "cell": "exposed",
+        "split_after": "2021Q2"
+      },
+      {
+        "estimate": -0.031048433311617874,
+        "firm_low": -0.048744212920348876,
+        "firm_high": -0.01335265370288687,
+        "cell": "exposed",
+        "split_after": "2021Q3"
+      },
+      {
+        "estimate": -0.016972546353943265,
+        "firm_low": -0.034050210485149425,
+        "firm_high": 0.00010511777726289473,
+        "cell": "exposed",
+        "split_after": "2022Q1"
+      },
+      {
+        "estimate": -0.02493043384394024,
+        "firm_low": -0.042816248648810486,
+        "firm_high": -0.007044619039069992,
+        "cell": "exposed",
+        "split_after": "2022Q2"
+      },
+      {
+        "estimate": -0.021066912256540424,
+        "firm_low": -0.03995653936198835,
+        "firm_high": -0.0021772851510925006,
+        "cell": "exposed",
+        "split_after": "2022Q3"
+      },
+      {
+        "estimate": -0.03527402614252713,
+        "firm_low": -0.05562175646395372,
+        "firm_high": -0.014926295821100544,
+        "cell": "exposed",
+        "split_after": "2023Q1"
+      },
+      {
+        "estimate": -0.031976873055605134,
+        "firm_low": -0.05721244342649025,
+        "firm_high": -0.006741302684720018,
+        "cell": "exposed",
+        "split_after": "2023Q2"
+      },
+      {
+        "estimate": 0.01535979073659228,
+        "firm_low": -0.01692080043502188,
+        "firm_high": 0.047640381908206436,
+        "cell": "unexposed",
+        "split_after": "2024Q1"
+      },
+      {
+        "estimate": 0.005169293200469963,
+        "firm_low": -0.01594145040680665,
+        "firm_high": 0.026280036807746574,
+        "cell": "unexposed",
+        "split_after": "2024Q2"
+      },
+      {
+        "estimate": 0.009299755470430838,
+        "firm_low": -0.0066953454199602715,
+        "firm_high": 0.025294856360821946,
+        "cell": "unexposed",
+        "split_after": "2024Q3"
+      },
+      {
+        "estimate": 0.007530335077406607,
+        "firm_low": -0.01209984876485912,
+        "firm_high": 0.027160518919672336,
+        "cell": "unexposed",
+        "split_after": "2025Q1"
+      },
+      {
+        "estimate": 0.009174217740444642,
+        "firm_low": -0.011181061938173406,
+        "firm_high": 0.02952949741906269,
+        "cell": "unexposed",
+        "split_after": "2025Q2"
+      },
+      {
+        "estimate": 0.017867671123441748,
+        "firm_low": -0.003139248399360837,
+        "firm_high": 0.038874590646244336,
+        "cell": "unexposed",
+        "split_after": "2025Q3"
+      },
+      {
+        "estimate": 0.004140879807489107,
+        "firm_low": -0.019499833344440453,
+        "firm_high": 0.027781592959418667,
+        "cell": "unexposed",
+        "split_after": "2026Q1"
+      }
+    ],
+    "M_primary_panel": 0.06307820524958474,
+    "bound_primary_panel": {
+      "rho_0": 0.0827223021158001,
+      "rho_hat": 0.09739122734196262
+    },
+    "alternative_placebos": {
+      "NC against N_id": {
+        "estimate": 0.0015933377450727641,
+        "wcr_low": -0.0063026897145497494,
+        "wcr_high": 0.009489365204695278,
+        "firm_low": -0.006434684008913285,
+        "firm_high": 0.009621359499058813
+      },
+      "NC against NP": {
+        "estimate": 0.0010657582865940792,
+        "wcr_low": -0.013015851135280743,
+        "wcr_high": 0.01514736770846891,
+        "firm_low": -0.013251246985744536,
+        "firm_high": 0.015382763558932696
+      },
+      "N_p1 against N_id": {
+        "estimate": -0.0058085775831241485,
+        "wcr_low": -0.012770923222807547,
+        "wcr_high": 0.0011537680565592498,
+        "firm_low": -0.012887309583483776,
+        "firm_high": 0.0012701544172354796
+      },
+      "NP against N_id": {
+        "estimate": 0.0005275794584786882,
+        "wcr_low": -0.009265801639523369,
+        "wcr_high": 0.010320960556480744,
+        "firm_low": -0.00942951313040587,
+        "firm_high": 0.010484672047363246
+      },
+      "N_p2 against N_id": {
+        "estimate": -0.005372789461243817,
+        "wcr_low": -0.011671078057664236,
+        "wcr_high": 0.0009254991351766023,
+        "firm_low": -0.011776363679229457,
+        "firm_high": 0.0010307847567418236
+      }
+    },
+    "prominence": {
+      "triple_difference": {
+        "estimate": 0.01751417597423096,
+        "firm_low": -0.00838194957191556,
+        "firm_high": 0.043410301520377476
+      },
+      "theta_by_size": {
+        "top_tercile": {
+          "estimate": 0.018873169383396587,
+          "firm_low": -0.0027473311689650386,
+          "firm_high": 0.04049366993575822,
+          "firms": 36
+        },
+        "bottom_two_terciles": {
+          "estimate": 0.0013589934091656137,
+          "firm_low": -0.01402799380796532,
+          "firm_high": 0.016745980626296546,
+          "firms": 71
+        }
+      },
+      "missing_assets_firms": 0
+    },
+    "aggregation": {
+      "prob_avg": {
+        "brier": 0.29938387133870087,
+        "share_far": 0.925251256281407,
+        "mean_forecast": 0.6865746547104187
+      },
+      "logit_avg": {
+        "brier": 0.30054801708967266,
+        "share_far": 0.9302763819095478,
+        "mean_forecast": 0.6864452231400121
+      },
+      "cal_prob_avg": {
+        "brier": 0.32399620707753046,
+        "share_far": 0.9334170854271356,
+        "mean_forecast": 0.5113865840196138
+      },
+      "cal_logit_avg": {
+        "brier": 0.3308718934279573,
+        "share_far": 0.9428391959798995,
+        "mean_forecast": 0.5150684687039265
+      },
+      "n": 1592
+    }
+  },
+  "gpt-oss-120b": {
+    "probe_correlation": {
+      "n": 1592,
+      "pearson": 0.8832797494311434,
+      "spearman": 0.8676601748173055
+    }
+  },
+  "Muse Glimmer 30B": {
+    "probe_correlation": {
+      "n": 1592,
+      "pearson": 0.8783648852529754,
+      "spearman": 0.8411060128036482
+    }
+  }
+}

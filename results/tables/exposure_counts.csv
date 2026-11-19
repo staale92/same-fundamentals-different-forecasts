@@ -1,0 +1,5 @@
+model,exposed,unexposed,donut
+Llama 3.1 8B,843,749,
+Llama 3.1 70B,843,749,
+gpt-oss-120b,939,554,99.0
+Muse Glimmer 30B,1424,76,92.0

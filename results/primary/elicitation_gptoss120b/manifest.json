@@ -1,0 +1,13 @@
+{
+  "arguments": {
+    "panel": "data/processed/sec_quarterly_confirmation.jsonl",
+    "model": "accounts/fireworks/models/gpt-oss-120b",
+    "tokenizer": "models/tokenizers/gpt-oss-120b",
+    "output": "results/primary/elicitation_gptoss120b",
+    "response_mode": "final",
+    "template_kwargs": "{\"reasoning_effort\": \"low\"}",
+    "strftime_date": "2026-10-16",
+    "workers": 16,
+    "serving": "Fireworks serverless"
+  }
+}

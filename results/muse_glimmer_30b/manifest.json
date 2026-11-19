@@ -1,0 +1,43 @@
+{
+  "model": "mlx-community/Muse-Glimmer-30B-4bit",
+  "revision": "3e7677d7a40d348a3daba263a2b1c0aa41910710",
+  "checkpoint_manifest_hash": "a7669cdbdd1ccc72a7a70900f3413700fbfa87942a6d0b5f5b643370adfc1029",
+  "panel_sha256": "5e7d0efc0dcd0df8de3b194fab7afbd58f9e26202281d6363953ff8c45d2045c",
+  "seed": 2026,
+  "arms": [
+    "E",
+    "U",
+    "P",
+    "K",
+    "C",
+    "C_awkward"
+  ],
+  "cutoff": "2026-01-04",
+  "probability_method": "arithmetic mean of two label-swapped conditional A/B token probabilities",
+  "quantization": {
+    "group_size": 64,
+    "bits": 4,
+    "mode": "affine"
+  },
+  "adapter": null,
+  "retrieval": false,
+  "backend": "MLX on Apple Metal",
+  "response_mode": "final",
+  "template_kwargs": {},
+  "prefill_step_size": 256,
+  "direct_answer_intervention": true,
+  "checkpoint_dtype": "bfloat16",
+  "model_type": "muse_glimmer",
+  "packages": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.0",
+    "transformers": "5.19.0",
+    "tokenizers": "0.23.3"
+  },
+  "source_hashes": {
+    "token_inference.py": "ccdd0489d78a0fc5f4e831bba0421f08ea3fb0bfba58c60ca2b7b2071b4fdd1e",
+    "transforms.py": "850b0f4ec00d4e8f747ae976b439456586e45f165b48c2f4feb3cb4b65f6c072",
+    "schema.py": "53eea0c546f4e8d4b1105c33a927971265e150953ef9ed1ddb5439538eded18f",
+    "prompts.py": "a8377451c0b2ef8f1bc0062c180b0a545e7866321db27e65cd3f83233ea11a56"
+  }
+}

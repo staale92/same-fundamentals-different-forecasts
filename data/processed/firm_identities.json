@@ -1,0 +1,876 @@
+{
+ "0000001800": {
+  "name": "ABBOTT LABORATORIES",
+  "tickers": [
+   "ABT"
+  ],
+  "former_names": []
+ },
+ "0000003570": {
+  "name": "Cheniere Energy, Inc.",
+  "tickers": [
+   "LNG"
+  ],
+  "former_names": [
+   "CHENIERE ENERGY INC"
+  ]
+ },
+ "0000004447": {
+  "name": "HESS CORPORATION",
+  "tickers": [
+   "HES"
+  ],
+  "former_names": [],
+  "manual_tickers": [
+   "HES"
+  ]
+ },
+ "0000004904": {
+  "name": "American Electric Power Company, Inc.",
+  "tickers": [
+   "AEP"
+  ],
+  "former_names": []
+ },
+ "0000006201": {
+  "name": "American Airlines Group Inc.",
+  "tickers": [
+   "AAL"
+  ],
+  "former_names": []
+ },
+ "0000014272": {
+  "name": "BRISTOL-MYERS SQUIBB COMPANY",
+  "tickers": [
+   "BMY",
+   "CELG-RI"
+  ],
+  "former_names": []
+ },
+ "0000018926": {
+  "name": "LUMEN TECHNOLOGIES,\u00a0INC.",
+  "tickers": [
+   "LUMN"
+  ],
+  "former_names": [
+   "CENTURYLINK, INC"
+  ]
+ },
+ "0000020520": {
+  "name": "Frontier Communications Parent, Inc.",
+  "tickers": [
+   "FYBR"
+  ],
+  "former_names": [
+   "FRONTIER COMMUNICATIONS CORP"
+  ],
+  "manual_tickers": [
+   "FYBR"
+  ]
+ },
+ "0000024545": {
+  "name": "Molson Coors Beverage Company",
+  "tickers": [
+   "TAP",
+   "TAP-A"
+  ],
+  "former_names": [
+   "MOLSON COORS BREWING CO"
+  ]
+ },
+ "0000024741": {
+  "name": "CORNING INC /NY",
+  "tickers": [
+   "GLW"
+  ],
+  "former_names": []
+ },
+ "0000027904": {
+  "name": "DELTA AIR LINES, INC.",
+  "tickers": [
+   "DAL"
+  ],
+  "former_names": [
+   "DELTA AIR LINES INC /DE/"
+  ]
+ },
+ "0000029989": {
+  "name": "OMNICOM GROUP INC.",
+  "tickers": [
+   "OMC"
+  ],
+  "former_names": []
+ },
+ "0000045012": {
+  "name": "HALLIBURTON COMPANY",
+  "tickers": [
+   "HAL"
+  ],
+  "former_names": []
+ },
+ "0000051434": {
+  "name": "INTERNATIONAL PAPER COMPANY",
+  "tickers": [
+   "INPAP",
+   "IP"
+  ],
+  "former_names": []
+ },
+ "0000059478": {
+  "name": "ELI LILLY AND COMPANY",
+  "tickers": [
+   "LLY"
+  ],
+  "former_names": [
+   "LILLY ELI & CO"
+  ]
+ },
+ "0000063908": {
+  "name": "McDONALD\u2019S CORPORATION",
+  "tickers": [
+   "MCD"
+  ],
+  "former_names": []
+ },
+ "0000064803": {
+  "name": "CVS HEALTH CORPORATION",
+  "tickers": [
+   "CVS"
+  ],
+  "former_names": []
+ },
+ "0000065984": {
+  "name": "ENTERGY CORP /DE/",
+  "tickers": [
+   "ETR"
+  ],
+  "former_names": []
+ },
+ "0000070318": {
+  "name": "TENET HEALTHCARE CORP",
+  "tickers": [
+   "THC"
+  ],
+  "former_names": []
+ },
+ "0000072741": {
+  "name": "EVERSOURCE ENERGY",
+  "tickers": [
+   "ES"
+  ],
+  "former_names": []
+ },
+ "0000075362": {
+  "name": "PACCAR Inc",
+  "tickers": [
+   "PCAR"
+  ],
+  "former_names": []
+ },
+ "0000087347": {
+  "name": "SLB LIMITED/NV",
+  "tickers": [
+   "SLB"
+  ],
+  "former_names": [
+   "SCHLUMBERGER LIMITED/NV"
+  ]
+ },
+ "0000092122": {
+  "name": "SOUTHERN CO",
+  "tickers": [
+   "SO",
+   "SOJC",
+   "SOJD",
+   "SOJE",
+   "SOJF",
+   "SOMN"
+  ],
+  "former_names": [
+   "SOUTHERN CO"
+  ]
+ },
+ "0000092380": {
+  "name": "SOUTHWEST AIRLINES CO.",
+  "tickers": [
+   "LUV"
+  ],
+  "former_names": []
+ },
+ "0000097745": {
+  "name": "THERMO FISHER SCIENTIFIC INC.",
+  "tickers": [
+   "TMO"
+  ],
+  "former_names": []
+ },
+ "0000100517": {
+  "name": "United Airlines Holdings, Inc.",
+  "tickers": [
+   "UAL"
+  ],
+  "former_names": [
+   "United Continental Holdings, Inc."
+  ]
+ },
+ "0000100885": {
+  "name": "UNION PACIFIC CORP",
+  "tickers": [
+   "UNP"
+  ],
+  "former_names": []
+ },
+ "0000101778": {
+  "name": "Marathon Oil Corporation",
+  "tickers": [
+   "MRO"
+  ],
+  "former_names": [],
+  "manual_tickers": [
+   "MRO"
+  ]
+ },
+ "0000101829": {
+  "name": "RTX CORPORATION",
+  "tickers": [
+   "RTX"
+  ],
+  "former_names": [
+   "RAYTHEON TECHNOLOGIES CORP",
+   "UNITED TECHNOLOGIES CORP /DE/"
+  ]
+ },
+ "0000107263": {
+  "name": "WILLIAMS COMPANIES, INC.",
+  "tickers": [
+   "WMB"
+  ],
+  "former_names": [
+   "WILLIAMS COMPANIES INC"
+  ]
+ },
+ "0000313616": {
+  "name": "DANAHER CORPORATION",
+  "tickers": [
+   "DHR"
+  ],
+  "former_names": []
+ },
+ "0000318154": {
+  "name": "Amgen Inc.",
+  "tickers": [
+   "AMGN"
+  ],
+  "former_names": []
+ },
+ "0000702165": {
+  "name": "NORFOLK SOUTHERN CORP",
+  "tickers": [
+   "NSC"
+  ],
+  "former_names": []
+ },
+ "0000715957": {
+  "name": "DOMINION ENERGY, INC",
+  "tickers": [
+   "D"
+  ],
+  "former_names": [
+   "DOMINION ENERGY INC /VA/"
+  ]
+ },
+ "0000753308": {
+  "name": "NEXTERA ENERGY INC",
+  "tickers": [
+   "NEE",
+   "NEE-PN",
+   "NEE-PS",
+   "NEE-PT",
+   "NEE-PU",
+   "NEE-PV",
+   "NEE-PW"
+  ],
+  "former_names": []
+ },
+ "0000764180": {
+  "name": "Altria Group, Inc.",
+  "tickers": [
+   "MO"
+  ],
+  "former_names": []
+ },
+ "0000789570": {
+  "name": "MGM Resorts International",
+  "tickers": [
+   "MGM"
+  ],
+  "former_names": []
+ },
+ "0000797468": {
+  "name": "OCCIDENTAL PETROLEUM CORPORATION",
+  "tickers": [
+   "OXY",
+   "OXY-WT"
+  ],
+  "former_names": []
+ },
+ "0000811156": {
+  "name": "CMS ENERGY CORPORATION",
+  "tickers": [
+   "CMS",
+   "CMS-PC",
+   "CMSA",
+   "CMSC",
+   "CMSD"
+  ],
+  "former_names": []
+ },
+ "0000813828": {
+  "name": "Paramount Skydance Corp",
+  "tickers": [
+   "PARA",
+   "PSKY",
+   "VIAC"
+  ],
+  "former_names": [
+   "ViacomCBS Inc.",
+   "CBS CORP",
+   "Paramount Global"
+  ],
+  "manual_tickers": [
+   "PARA",
+   "PSKY",
+   "VIAC"
+  ]
+ },
+ "0000818686": {
+  "name": "TEVA PHARMACEUTICAL INDUSTRIES LIMITED",
+  "tickers": [
+   "TEVA"
+  ],
+  "former_names": []
+ },
+ "0000821189": {
+  "name": "EOG RESOURCES, INC.",
+  "tickers": [
+   "EOG"
+  ],
+  "former_names": []
+ },
+ "0000823768": {
+  "name": "WASTE MANAGEMENT INC",
+  "tickers": [
+   "WM"
+  ],
+  "former_names": []
+ },
+ "0000827052": {
+  "name": "EDISON INTERNATIONAL",
+  "tickers": [
+   "EIX"
+  ],
+  "former_names": []
+ },
+ "0000831259": {
+  "name": "Freeport-McMoRan Inc.",
+  "tickers": [
+   "FCX"
+  ],
+  "former_names": []
+ },
+ "0000860730": {
+  "name": "HCA Healthcare, Inc.",
+  "tickers": [
+   "HCA"
+  ],
+  "former_names": []
+ },
+ "0000874761": {
+  "name": "THE AES CORPORATION",
+  "tickers": [
+   "AES"
+  ],
+  "former_names": []
+ },
+ "0000875045": {
+  "name": "BIOGEN INC.",
+  "tickers": [
+   "BIIB"
+  ],
+  "former_names": []
+ },
+ "0000882095": {
+  "name": "GILEAD SCIENCES, INC.",
+  "tickers": [
+   "GILD"
+  ],
+  "former_names": [
+   "GILEAD SCIENCES INC"
+  ]
+ },
+ "0000884887": {
+  "name": "ROYAL CARIBBEAN CRUISES LTD",
+  "tickers": [
+   "RCL"
+  ],
+  "former_names": []
+ },
+ "0000885590": {
+  "name": "Bausch Health Companies Inc.",
+  "tickers": [
+   "BHC"
+  ],
+  "former_names": []
+ },
+ "0000885725": {
+  "name": "BOSTON SCIENTIFIC CORPORATION",
+  "tickers": [
+   "BSX"
+  ],
+  "former_names": []
+ },
+ "0000922224": {
+  "name": "PPL Corp",
+  "tickers": [
+   "PPL",
+   "PPLC"
+  ],
+  "former_names": []
+ },
+ "0001001082": {
+  "name": "DISH Network Corp",
+  "tickers": [
+   "DISH"
+  ],
+  "former_names": [],
+  "manual_tickers": [
+   "DISH"
+  ]
+ },
+ "0001002910": {
+  "name": "AMEREN CORP",
+  "tickers": [
+   "AEE"
+  ],
+  "former_names": []
+ },
+ "0001004980": {
+  "name": "PG&E CORP",
+  "tickers": [
+   "PCG",
+   "PCG-PA",
+   "PCG-PB",
+   "PCG-PC",
+   "PCG-PD",
+   "PCG-PE",
+   "PCG-PG",
+   "PCG-PH",
+   "PCG-PI",
+   "PCG-PX"
+  ],
+  "former_names": [
+   "PG&E CORP",
+   "PG&E Corp"
+  ]
+ },
+ "0001018724": {
+  "name": "AMAZON COM INC",
+  "tickers": [
+   "AMZN"
+  ],
+  "former_names": []
+ },
+ "0001031296": {
+  "name": "FIRSTENERGY CORP",
+  "tickers": [
+   "FE"
+  ],
+  "former_names": []
+ },
+ "0001032208": {
+  "name": "SEMPRA",
+  "tickers": [
+   "SRE",
+   "SREA"
+  ],
+  "former_names": [
+   "SEMPRA ENERGY"
+  ]
+ },
+ "0001035002": {
+  "name": "VALERO ENERGY CORP/TX",
+  "tickers": [
+   "VLO"
+  ],
+  "former_names": []
+ },
+ "0001047862": {
+  "name": "CONSOLIDATED EDISON INC",
+  "tickers": [
+   "ED"
+  ],
+  "former_names": []
+ },
+ "0001048286": {
+  "name": "MARRIOTT INTERNATIONAL INC /MD/",
+  "tickers": [
+   "MAR"
+  ],
+  "former_names": [
+   "MARRIOTT INTERNATIONAL INC /MD/"
+  ]
+ },
+ "0001060391": {
+  "name": "REPUBLIC SERVICES, INC.",
+  "tickers": [
+   "RSG"
+  ],
+  "former_names": []
+ },
+ "0001065088": {
+  "name": "eBay Inc.",
+  "tickers": [
+   "EBAY"
+  ],
+  "former_names": []
+ },
+ "0001065280": {
+  "name": "NETFLIX INC",
+  "tickers": [
+   "NFLX"
+  ],
+  "former_names": []
+ },
+ "0001091667": {
+  "name": "Charter Communications, Inc.",
+  "tickers": [
+   "CHTR",
+   "CHTRP"
+  ],
+  "former_names": []
+ },
+ "0001103982": {
+  "name": "Mondelez International, Inc.",
+  "tickers": [
+   "MDLZ"
+  ],
+  "former_names": []
+ },
+ "0001109357": {
+  "name": "EXELON CORPORATION",
+  "tickers": [
+   "EXC"
+  ],
+  "former_names": []
+ },
+ "0001111711": {
+  "name": "NISOURCE INC.",
+  "tickers": [
+   "NI"
+  ],
+  "former_names": [
+   "NISOURCE INC/DE"
+  ]
+ },
+ "0001130310": {
+  "name": "CENTERPOINT ENERGY INC",
+  "tickers": [
+   "CNP"
+  ],
+  "former_names": [
+   "CENTERPOINT ENERGY INC"
+  ]
+ },
+ "0001133421": {
+  "name": "NORTHROP GRUMMAN CORP /DE/",
+  "tickers": [
+   "NOC"
+  ],
+  "former_names": []
+ },
+ "0001136869": {
+  "name": "ZIMMER BIOMET HOLDINGS, INC.",
+  "tickers": [
+   "ZBH"
+  ],
+  "former_names": []
+ },
+ "0001136893": {
+  "name": "Fidelity National Information Services, Inc.",
+  "tickers": [
+   "FIS"
+  ],
+  "former_names": []
+ },
+ "0001141391": {
+  "name": "Mastercard Incorporated",
+  "tickers": [
+   "MA"
+  ],
+  "former_names": []
+ },
+ "0001163165": {
+  "name": "ConocoPhillips",
+  "tickers": [
+   "COP"
+  ],
+  "former_names": []
+ },
+ "0001166691": {
+  "name": "COMCAST\u00a0CORPORATION",
+  "tickers": [
+   "CCZ",
+   "CMCSA"
+  ],
+  "former_names": []
+ },
+ "0001283699": {
+  "name": "T-MOBILE US, INC.",
+  "tickers": [
+   "TMUS",
+   "TMUSI",
+   "TMUSL",
+   "TMUSZ"
+  ],
+  "former_names": []
+ },
+ "0001300514": {
+  "name": "LAS VEGAS SANDS CORP.",
+  "tickers": [
+   "LVS"
+  ],
+  "former_names": []
+ },
+ "0001326160": {
+  "name": "Duke Energy CORP",
+  "tickers": [
+   "DUK",
+   "DUK-PA",
+   "DUKB",
+   "DUKU"
+  ],
+  "former_names": []
+ },
+ "0001326801": {
+  "name": "Meta Platforms, Inc.",
+  "tickers": [
+   "META"
+  ],
+  "former_names": [
+   "Facebook Inc"
+  ]
+ },
+ "0001410636": {
+  "name": "AMERICAN WATER WORKS COMPANY, INC.",
+  "tickers": [
+   "AWK"
+  ],
+  "former_names": []
+ },
+ "0001413329": {
+  "name": "Philip Morris International Inc.",
+  "tickers": [
+   "PM"
+  ],
+  "former_names": []
+ },
+ "0001413447": {
+  "name": "NXP Semiconductors N.V.",
+  "tickers": [
+   "NXPI"
+  ],
+  "former_names": []
+ },
+ "0001418135": {
+  "name": "Keurig Dr Pepper Inc.",
+  "tickers": [
+   "KDP"
+  ],
+  "former_names": []
+ },
+ "0001437107": {
+  "name": "Warner Bros. Discovery, Inc.",
+  "tickers": [
+   "WBD"
+  ],
+  "former_names": [
+   "Discovery, Inc."
+  ]
+ },
+ "0001451505": {
+  "name": "Transocean\u00a0Ltd.",
+  "tickers": [
+   "RIG"
+  ],
+  "former_names": []
+ },
+ "0001478242": {
+  "name": "IQVIA HOLDINGS INC.",
+  "tickers": [
+   "IQV"
+  ],
+  "former_names": []
+ },
+ "0001506307": {
+  "name": "KINDER MORGAN, INC.",
+  "tickers": [
+   "EP-PC",
+   "KMI"
+  ],
+  "former_names": []
+ },
+ "0001510295": {
+  "name": "Marathon Petroleum Corporation",
+  "tickers": [
+   "MPC"
+  ],
+  "former_names": []
+ },
+ "0001534701": {
+  "name": "Phillips 66",
+  "tickers": [
+   "PSX"
+  ],
+  "former_names": []
+ },
+ "0001539838": {
+  "name": "Diamondback Energy, Inc.",
+  "tickers": [
+   "FANG"
+  ],
+  "former_names": [
+   "Diamondback Energy, Inc."
+  ]
+ },
+ "0001543151": {
+  "name": "Uber Technologies, Inc",
+  "tickers": [
+   "UBER"
+  ],
+  "former_names": []
+ },
+ "0001551152": {
+  "name": "AbbVie Inc.",
+  "tickers": [
+   "ABBV"
+  ],
+  "former_names": []
+ },
+ "0001551182": {
+  "name": "EATON CORPORATION plc",
+  "tickers": [
+   "ETN"
+  ],
+  "former_names": []
+ },
+ "0001570585": {
+  "name": "Liberty Global Ltd.",
+  "tickers": [
+   "LBTYA",
+   "LBTYB",
+   "LBTYK"
+  ],
+  "former_names": [
+   "Liberty Global plc"
+  ]
+ },
+ "0001633917": {
+  "name": "PayPal Holdings, Inc.",
+  "tickers": [
+   "PYPL"
+  ],
+  "former_names": []
+ },
+ "0001634997": {
+  "name": "Avangrid, Inc.",
+  "tickers": [
+   "AGR"
+  ],
+  "former_names": [],
+  "manual_tickers": [
+   "AGR"
+  ]
+ },
+ "0001652044": {
+  "name": "Alphabet Inc.",
+  "tickers": [
+   "GOOG",
+   "GOOGL",
+   "GOOGM",
+   "GOOGN"
+  ],
+  "former_names": []
+ },
+ "0001657853": {
+  "name": "HERTZ GLOBAL HOLDINGS, INC",
+  "tickers": [
+   "HTZ",
+   "HTZWW"
+  ],
+  "former_names": []
+ },
+ "0001666700": {
+  "name": "DUPONT DE NEMOURS, INC.",
+  "tickers": [
+   "DD"
+  ],
+  "former_names": [
+   "DowDuPont Inc."
+  ]
+ },
+ "0001681459": {
+  "name": "TechnipFMC plc",
+  "tickers": [
+   "FTI"
+  ],
+  "former_names": []
+ },
+ "0001692819": {
+  "name": "Vistra Operations Company LLC",
+  "tickers": [
+   "VST"
+  ],
+  "former_names": [
+   "Vistra Energy Corp."
+  ]
+ },
+ "0001702780": {
+  "name": "Optimum Communications, Inc.",
+  "tickers": [
+   "OPTU"
+  ],
+  "former_names": [
+   "Altice USA, Inc."
+  ]
+ },
+ "0001707925": {
+  "name": "Linde plc",
+  "tickers": [
+   "LIN"
+  ],
+  "former_names": []
+ },
+ "0001711269": {
+  "name": "Evergy, Inc.",
+  "tickers": [
+   "EVRG"
+  ],
+  "former_names": []
+ },
+ "0001751788": {
+  "name": "DOW INC.",
+  "tickers": [
+   "DOW"
+  ],
+  "former_names": [
+   "Dow Holdings Inc."
+  ]
+ },
+ "0001755672": {
+  "name": "Corteva, Inc.",
+  "tickers": [
+   "CTVA"
+  ],
+  "former_names": []
+ }
+}

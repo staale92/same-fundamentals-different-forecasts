@@ -1,0 +1,13 @@
+{
+  "seed": 2026,
+  "observations": 40,
+  "firms": 40,
+  "treated_firms": 20,
+  "held_out_firms": 20,
+  "assignment_unit": "firm",
+  "observations_per_firm": 1,
+  "stratification": "outcome label",
+  "control_branch": "flipped",
+  "assignment_file": "assignments.jsonl",
+  "assignment_file_sha256": "28abb9ff368c68ee71848ca6fd146e91e788e1f5224148803b386f802e306107"
+}

@@ -1,0 +1,30 @@
+{
+  "analysis_type": "exploratory; added after review and declared before scoring",
+  "panel": "data/processed/sec_quarterly_confirmation.jsonl",
+  "instruction_ablation": {
+    "models": ["meta-llama/Llama-3.1-8B-Instruct", "meta-llama/Llama-3.1-70B-Instruct"],
+    "arms": ["N", "N_p1", "NC"],
+    "system_message_original": "You are a financial analyst. Use only the supplied statements. Treat reporting units and explicitly disclosed currency conversions consistently. Do not identify the company or use remembered company outcomes.",
+    "system_message": "You are a financial analyst. Treat reporting units and explicitly disclosed currency conversions consistently.",
+    "elicitation": "Unchanged from the primary run: single answer token, two label-swapped contexts, probability averaging; same pinned tokenizer, chat template and serving configuration.",
+    "exposure_cutoff": "2023-12-31",
+    "outputs": [
+      "results/hosted/numeraire-llama31-8b_quarterly_confirmation_no_instruction",
+      "results/hosted/numeraire-llama31-70b_quarterly_confirmation_no_instruction"
+    ]
+  },
+  "generated_reasoning": {
+    "model": "openai/gpt-oss-120b",
+    "serving": "Fireworks serverless chat completions; the provider renders the chat template",
+    "reasoning_effort": "medium",
+    "temperature": 0,
+    "max_tokens": 8192,
+    "arms": ["N", "N_p1", "NC"],
+    "system_message": "You are a financial analyst. Treat reporting units and explicitly disclosed currency conversions consistently.",
+    "user_message": "Rendered statement, then numeraire.prompts.REASONING with the quarterly target (numeraire.token_inference.reasoning_messages).",
+    "forecast": "probability_percent / 100 from the last JSON object in the answer, clipped to [0, 1] (numeraire.token_inference.parse_reasoning).",
+    "exposure_cutoff": "2024-06-01",
+    "outputs": ["results/hosted/gptoss120b_quarterly_confirmation_reasoning"]
+  },
+  "inference": "Primary-contrast estimator, WCR and firm-level sign-flip inference as in analyze_primary.py; MDE at 80% power."
+}

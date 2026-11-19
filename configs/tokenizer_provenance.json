@@ -1,0 +1,14 @@
+{
+  "models": [
+    "meta-llama/Llama-3.1-8B-Instruct",
+    "meta-llama/Llama-3.1-70B-Instruct"
+  ],
+  "source": "unsloth/Meta-Llama-3.1-70B-Instruct",
+  "revision": "1fdd0a465a29664d155aee8a9f77c55a65cc8d5f",
+  "tokenizer_config_sha256": "07fc061a5c240cbc7d293778b69677c576676ba015d37f475e701a560dcbed37",
+  "chat_template_utf8_sha256": "e10ca381b1ccc5cf9db52e371f3b6651576caee0a630b452e2816b2d404d4b65",
+  "chat_template_json_sha256": "ca5b86f15c19b53c24ff18228849e06ffb677b952d85171c66d9b720d924f9bb",
+  "fixed_date_header": "26 Jul 2024",
+  "official_template_equivalence": "Not independently verified; the entire mirrored tokenizer configuration has a different checksum from the upstream configuration.",
+  "verification": "Answer-token identifiers were checked against server-returned token identifiers; saved forecasts retain prompt, vocabulary, and template hashes."
+}

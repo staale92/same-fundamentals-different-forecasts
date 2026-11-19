@@ -1,0 +1,18 @@
+{
+  "model": "meta-llama/Llama-3.1-70B-Instruct",
+  "serving": "Fireworks dedicated deployment idprobe-70b-10200556 (2 x NVIDIA_H200_141GB, BF16)",
+  "system": "You are a financial analyst.",
+  "question": "Which publicly listed US company reported these financial statements? Answer with the company name and stock ticker only.",
+  "arms": [
+    "N",
+    "NC",
+    "R",
+    "Q"
+  ],
+  "decoding": {
+    "temperature": 0,
+    "max_tokens": 32
+  },
+  "panel": "data/processed/sec_quarterly_confirmation.jsonl",
+  "answers": 6368
+}

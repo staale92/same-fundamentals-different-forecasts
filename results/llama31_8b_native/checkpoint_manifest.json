@@ -1,0 +1,19 @@
+{
+  "model": "mlx-community/Meta-Llama-3.1-8B-Instruct-bf16",
+  "revision": "f8311090f9ee47782b6f094984a20c856eb841d6",
+  "files_sha256": {
+    "README.md": "2f349fd50b44e793a0c38d301eb7b488e848233e75ab6e3a33462772147fdfd7",
+    "config.json": "cc4b961ba4da639c74e00e59956dadbca2471bee85bccabecf9373bfcb5a47b3",
+    "model-00001-of-00004.safetensors": "e8f8bd79686b2bf28b7f47826c14f038488c1e23311ffa64c5a6c84b9bd80a03",
+    "model-00002-of-00004.safetensors": "0ba199f8cba7b46e09dad10ee239a2877d6467f9448c08db87f7a74e43ead599",
+    "model-00003-of-00004.safetensors": "c37b5389bcd3d822c9a712b8fec3327585f760cc9b10081c81f9dfa9194d2794",
+    "model-00004-of-00004.safetensors": "bfca38e630589bdba9d83040a771d63b36ea18ce5bce8f7c70493119a1f77fd5",
+    "model.safetensors.index.json": "e60a22a6cec3b5ac425ffa46d368d64999c1f411d63f967f72861670a0745ba5",
+    "special_tokens_map.json": "6f38c73729248f6c127296386e3cdde96e254636cc58b4169d3fd32328d9a8ec",
+    "tokenizer.json": "6b9e4e7fb171f92fd137b777cc2714bf87d11576700a1dcd7a399e7bbe39537b",
+    "tokenizer_config.json": "177c7b61e616fecb84c17ce0591acb92c6c4d60e9ac5ababfb940ff23bbcd424"
+  },
+  "source": "https://huggingface.co/mlx-community/Meta-Llama-3.1-8B-Instruct-bf16",
+  "gated": false,
+  "upstream_lfs_sha256_verified": true
+}

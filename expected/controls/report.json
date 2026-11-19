@@ -1,0 +1,438 @@
+{
+  "rho": {
+    "rho": 0.15061854775334743,
+    "low": -0.08770886419637158,
+    "high": 0.5553004525375885
+  },
+  "rho_NP": {
+    "rho": 0.46383698947334884,
+    "low": -0.5339995466751879,
+    "high": 1.6648283224587201
+  },
+  "removal_by_dose": {
+    "60": {
+      "T_N": 0.8752463666133663,
+      "NC": {
+        "share": 0.5034169044395281,
+        "share_low": 0.1309634473675865,
+        "share_high": 1.1509248943139905
+      },
+      "N_p1": {
+        "share": 0.0758239230611674,
+        "share_low": -0.03508125278031825,
+        "share_high": 0.29149686750444526
+      },
+      "NP": {
+        "share": 0.23350338140522325,
+        "share_low": -0.1917569606787377,
+        "share_high": 0.6485920120878462
+      },
+      "rho_N_p1": {
+        "rho": 0.15061854775334743,
+        "low": -0.08770886419637158,
+        "high": 0.5553004525375885
+      },
+      "rho_NP": {
+        "rho": 0.46383698947334884,
+        "low": -0.5339995466751879,
+        "high": 1.6648283224587201
+      }
+    },
+    "120": {
+      "T_N": 0.9503389846034423,
+      "NC": {
+        "share": 0.23822584711911715,
+        "share_low": -0.023797292270346108,
+        "share_high": 0.5429114705263047
+      },
+      "N_p1": {
+        "share": -0.048501160215980915,
+        "share_low": -0.2124556818779341,
+        "share_high": 6.926933189473207e-05
+      },
+      "NP": {
+        "share": -0.10510321182750057,
+        "share_low": -0.5372138043103513,
+        "share_high": 0.10518755738993908
+      },
+      "rho_N_p1": {
+        "rho": -0.20359319025416026,
+        "low": -2.2723327313641066,
+        "high": 0.0025651764373579083
+      },
+      "rho_NP": {
+        "rho": -0.4411914706087586,
+        "low": -4.255369249985939,
+        "high": 1.60559408307489
+      }
+    },
+    "240": {
+      "T_N": 1.0010041097091296,
+      "NC": {
+        "share": 0.11960906646912477,
+        "share_low": -0.14663506079952465,
+        "share_high": 0.4384325759900456
+      },
+      "N_p1": {
+        "share": 0.03676587970063151,
+        "share_low": -0.1492063497053857,
+        "share_high": 0.2088599975802102
+      },
+      "NP": {
+        "share": 0.1541312362159617,
+        "share_low": -0.17464910267245679,
+        "share_high": 0.44628648567668505
+      },
+      "rho_N_p1": {
+        "rho": 0.30738371919424734,
+        "low": -7.27168679315699,
+        "high": 7.345578607757568
+      },
+      "rho_NP": {
+        "rho": 1.288625024556548,
+        "low": -16.55953594358358,
+        "high": 14.666718361764152
+      }
+    }
+  },
+  "splits": {
+    "Llama 3.1 8B": [
+      {
+        "panel": "confirmation, quarterly",
+        "period": "exposed",
+        "estimate": -0.0020813360198979496,
+        "wcr_low": -0.00919343110728337,
+        "wcr_high": 0.005030759067487466,
+        "mde80": 0.010314830483141128,
+        "n_first": 454,
+        "n_second": 389,
+        "distance_years": -1.4585433110992199,
+        "primary_distance_years": 2.765926335945096,
+        "scale": 1.8963621545530773,
+        "scaled": 0.003946966859042602
+      },
+      {
+        "panel": "confirmation, quarterly",
+        "period": "unexposed",
+        "estimate": 0.0017131401646235697,
+        "wcr_low": -0.007580671962007124,
+        "wcr_high": 0.011006952291254264,
+        "mde80": 0.013140860937980215,
+        "n_first": 294,
+        "n_second": 455,
+        "distance_years": -1.3166797488224802,
+        "primary_distance_years": 2.765926335945096,
+        "scale": 2.1006826742939517,
+        "scaled": 0.003598763862461821
+      },
+      {
+        "panel": "pilot, quarterly",
+        "period": "exposed",
+        "estimate": 0.005557740148788282,
+        "wcr_low": -0.02252934093240759,
+        "wcr_high": 0.03364482122998415,
+        "mde80": 0.03966912959157341,
+        "n_first": 54,
+        "n_second": 44,
+        "distance_years": -1.4606481481480387,
+        "primary_distance_years": 2.8092074038916053,
+        "scale": 1.9232608533775981,
+        "scaled": 0.01068898406140949
+      },
+      {
+        "panel": "pilot, quarterly",
+        "period": "unexposed",
+        "estimate": 0.005376123804573906,
+        "wcr_low": -0.0350762102238307,
+        "wcr_high": 0.04582845783297852,
+        "mde80": 0.057133344551375996,
+        "n_first": 33,
+        "n_second": 53,
+        "distance_years": -1.3254716981132333,
+        "primary_distance_years": 2.8092074038916053,
+        "scale": 2.1194020271352625,
+        "scaled": 0.011394167689544075
+      },
+      {
+        "panel": "confirmation, annual",
+        "period": "exposed",
+        "estimate": -0.0006772430606842546,
+        "wcr_low": -0.007588303358366421,
+        "wcr_high": 0.006233817236997917,
+        "mde80": 0.010008604508518556,
+        "n_first": 380,
+        "n_second": 520,
+        "distance_years": -5.562651821862346,
+        "primary_distance_years": 7.199181286549674,
+        "scale": 1.2941995143854657,
+        "scaled": 0.0008764876402584888
+      },
+      {
+        "panel": "confirmation, annual",
+        "period": "unexposed",
+        "estimate": 0.0035894846532137127,
+        "wcr_low": -0.011945882221805905,
+        "wcr_high": 0.019533676972312813,
+        "mde80": 0.023135300921728715,
+        "n_first": 96,
+        "n_second": 94,
+        "distance_years": -1.0,
+        "primary_distance_years": 7.199181286549674,
+        "scale": 7.199181286549674,
+        "scaled": 0.025841350743773406
+      },
+      {
+        "panel": "pilot, annual",
+        "period": "exposed",
+        "estimate": 0.003403620428305219,
+        "wcr_low": -0.021077187292135077,
+        "wcr_high": 0.030604517895461092,
+        "mde80": 0.03380741532702813,
+        "n_first": 35,
+        "n_second": 59,
+        "distance_years": -5.649394673123425,
+        "primary_distance_years": 6.925531914893554,
+        "scale": 1.2258891997475867,
+        "scaled": 0.004172461523099623
+      },
+      {
+        "panel": "pilot, annual",
+        "period": "unexposed",
+        "estimate": -0.029128007327151064,
+        "wcr_low": -0.07010285385796625,
+        "wcr_high": 0.011846839203664111,
+        "mde80": 0.0606270986314554,
+        "n_first": 11,
+        "n_second": 11,
+        "distance_years": -1.0,
+        "primary_distance_years": 6.925531914893554,
+        "scale": 6.925531914893554,
+        "scaled": 0.20172694436143798
+      }
+    ],
+    "Llama 3.1 70B": [
+      {
+        "panel": "confirmation, quarterly",
+        "period": "exposed",
+        "estimate": -0.024930433843940242,
+        "wcr_low": -0.04251826988017535,
+        "wcr_high": -0.006891627652929888,
+        "mde80": 0.025508031747328432,
+        "n_first": 454,
+        "n_second": 389,
+        "distance_years": -1.4585433110992199,
+        "primary_distance_years": 2.765926335945096,
+        "scale": 1.8963621545530773,
+        "scaled": 0.04727713123823748
+      },
+      {
+        "panel": "confirmation, quarterly",
+        "period": "unexposed",
+        "estimate": 0.009299755470430843,
+        "wcr_low": -0.00643062907344303,
+        "wcr_high": 0.025030140014304716,
+        "mde80": 0.022812067827331927,
+        "n_first": 294,
+        "n_second": 455,
+        "distance_years": -1.3166797488224802,
+        "primary_distance_years": 2.765926335945096,
+        "scale": 2.1006826742939517,
+        "scaled": 0.019535835191904473
+      },
+      {
+        "panel": "pilot, quarterly",
+        "period": "exposed",
+        "estimate": 0.029247721123554303,
+        "wcr_low": -0.05325247075642442,
+        "wcr_high": 0.10987290864262442,
+        "mde80": 0.11652014652414737,
+        "n_first": 54,
+        "n_second": 44,
+        "distance_years": -1.4606481481480387,
+        "primary_distance_years": 2.8092074038916053,
+        "scale": 1.9232608533775981,
+        "scaled": 0.056250997087437055
+      },
+      {
+        "panel": "pilot, quarterly",
+        "period": "unexposed",
+        "estimate": -0.033544291705208736,
+        "wcr_low": -0.11401759464145655,
+        "wcr_high": 0.03798753312701153,
+        "mde80": 0.11113172433570959,
+        "n_first": 33,
+        "n_second": 53,
+        "distance_years": -1.3254716981132333,
+        "primary_distance_years": 2.8092074038916053,
+        "scale": 2.1194020271352625,
+        "scaled": 0.07109383983883596
+      },
+      {
+        "panel": "confirmation, annual",
+        "period": "exposed",
+        "estimate": 0.0026694564577879948,
+        "wcr_low": -0.011945654091702444,
+        "wcr_high": 0.017284567007278435,
+        "mde80": 0.021165617870124134,
+        "n_first": 380,
+        "n_second": 520,
+        "distance_years": -5.562651821862346,
+        "primary_distance_years": 7.199181286549674,
+        "scale": 1.2941995143854657,
+        "scaled": 0.003454809251342368
+      },
+      {
+        "panel": "confirmation, annual",
+        "period": "unexposed",
+        "estimate": 0.0008533637335427081,
+        "wcr_low": -0.039198929194706286,
+        "wcr_high": 0.04090565666179166,
+        "mde80": 0.05964595860238392,
+        "n_first": 96,
+        "n_second": 94,
+        "distance_years": -1.0,
+        "primary_distance_years": 7.199181286549674,
+        "scale": 7.199181286549674,
+        "scaled": 0.0061435202211408265
+      },
+      {
+        "panel": "pilot, annual",
+        "period": "exposed",
+        "estimate": 0.01093977366570394,
+        "wcr_low": -0.058607911295146156,
+        "wcr_high": 0.0966613388500076,
+        "mde80": 0.10051085388343114,
+        "n_first": 35,
+        "n_second": 59,
+        "distance_years": -5.649394673123425,
+        "primary_distance_years": 6.925531914893554,
+        "scale": 1.2258891997475867,
+        "scaled": 0.013410950384469525
+      },
+      {
+        "panel": "pilot, annual",
+        "period": "unexposed",
+        "estimate": -0.02055583107380936,
+        "wcr_low": -0.1491922830182115,
+        "wcr_high": 0.11114339353593561,
+        "mde80": 0.19033274117985044,
+        "n_first": 11,
+        "n_second": 11,
+        "distance_years": -1.0,
+        "primary_distance_years": 6.925531914893554,
+        "scale": 6.925531914893554,
+        "scaled": 0.14236006413882737
+      }
+    ]
+  },
+  "mean_shift_diagnostic": {
+    "cells": {
+      "unexposed": {
+        "n": 22,
+        "base_rate": 0.2727272727272727,
+        "mean_N": 0.5873200870069847,
+        "calibration_in_large_N": 0.314592814279712,
+        "shift_NC_minus_Np1": -0.011678337778393028
+      },
+      "exposed": {
+        "n": 94,
+        "base_rate": 0.5638297872340425,
+        "mean_N": 0.6573262431520356,
+        "calibration_in_large_N": 0.09349645591799305,
+        "shift_NC_minus_Np1": -0.012861098252686226
+      }
+    },
+    "mean_shift_NC_minus_Np1": -0.012269718015539628,
+    "predicted_theta_uniform_shift": 0.005425579942721977,
+    "contrasts": {
+      "raw": {
+        "estimate": 0.0141431364119327,
+        "low": -0.0061578685481873,
+        "high": 0.0344441413720528
+      },
+      "within Y=0": {
+        "estimate": 0.0097632676254567,
+        "low": -0.0178980874880422,
+        "high": 0.0374246227389558
+      },
+      "within Y=1": {
+        "estimate": 0.001643975561931,
+        "low": -0.035235075032039,
+        "high": 0.0385230261559011
+      },
+      "base-rate adjusted": {
+        "estimate": 0.0057036215936939,
+        "low": -0.0160282322460024,
+        "high": 0.0267031902513153
+      }
+    }
+  },
+  "representation_retention": {
+    "T_N": 0.8752463666075553,
+    "arms": {
+      "E": {
+        "T": 0.8975252341094678,
+        "T_low": 0.5019704093447207,
+        "T_high": 1.2735577180735724,
+        "retained_share": 1.0254543958728617,
+        "retained_low": 0.7816713885375606,
+        "retained_high": 1.3642009135558526
+      },
+      "N": {
+        "T": 0.8752463666075553,
+        "T_low": 0.46146909042077977,
+        "T_high": 1.2758032840972087,
+        "retained_share": 1.0,
+        "retained_low": 1.0,
+        "retained_high": 1.0
+      },
+      "Q": {
+        "T": 0.17506672696624614,
+        "T_low": -0.41375000827000097,
+        "T_high": 0.7251026098304153,
+        "retained_share": 0.20001994140781496,
+        "retained_low": -0.5778304399614633,
+        "retained_high": 0.8619005543233061
+      },
+      "R": {
+        "T": 0.022042881572435197,
+        "T_low": -0.4876637787310553,
+        "T_high": 0.4833915877539654,
+        "retained_share": 0.02518477358309198,
+        "retained_low": -0.7273663709699667,
+        "retained_high": 0.5332220108236528
+      },
+      "U": {
+        "T": 0.8999732526025952,
+        "T_low": 0.4736059883997626,
+        "T_high": 1.3158461170638207,
+        "retained_share": 1.0282513437797876,
+        "retained_low": 0.9999984504042109,
+        "retained_high": 1.0988116789684512
+      }
+    },
+    "reproduction_N": {
+      "n": 40,
+      "max_abs_difference": 0.0,
+      "decision_flips": 0.0
+    }
+  },
+  "variance": {
+    "Llama 3.1 8B (quarterly confirmation)": {
+      "r2_sign": 0.6412577402898861,
+      "median_distance_exposed": 0.17197395625024242
+    },
+    "Llama 3.1 70B (quarterly confirmation)": {
+      "r2_sign": 0.7872052265490616,
+      "median_distance_exposed": 0.4420484023458046
+    },
+    "Llama 3.1 8B (annual confirmation)": {
+      "r2_sign": 0.7462852649904492,
+      "median_distance_exposed": 0.21741823928070936
+    },
+    "Llama 3.1 70B (annual confirmation)": {
+      "r2_sign": 0.7033177575377991,
+      "median_distance_exposed": 0.3829688490127387
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "n_observations": 40,
+  "n_firms": 40,
+  "metric": "brier",
+  "effects": [
+    {
+      "arm": "N",
+      "metric": "brier",
+      "randomized_effect": 0.8752463666133663,
+      "randomized_effect_interval": {
+        "ci_low": 0.46146909045152606,
+        "ci_high": 1.275803284070902,
+        "bootstrap_valid": 2000
+      },
+      "total_planted_effect": 0.8752463666133663,
+      "trained_minus_arm_effect": 0.0,
+      "placebo_minus_arm_effect": -0.0663646131616582,
+      "recovery_error_vs_total": -0.9416109797750245,
+      "recovery_error_vs_removed_effect": -0.0663646131616582,
+      "ci_low": -0.2504499404164185,
+      "ci_high": 0.02287932977782029,
+      "bootstrap_valid": 2000,
+      "recovery_error_interval": {
+        "ci_low": -1.4118203990159988,
+        "ci_high": -0.46295084028395966,
+        "bootstrap_valid": 2000
+      },
+      "removed_effect_recovery_interval": {
+        "ci_low": -0.2504499404164185,
+        "ci_high": 0.02287932977782029,
+        "bootstrap_valid": 2000
+      },
+      "trained_arm": "N",
+      "placebo_arm": "N_p1",
+      "removal_interval": {
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "bootstrap_valid": 2000
+      }
+    },
+    {
+      "arm": "NC",
+      "metric": "brier",
+      "randomized_effect": 0.4346325501109211,
+      "randomized_effect_interval": {
+        "ci_low": -0.08203243981751943,
+        "ci_high": 0.9195675015314586,
+        "bootstrap_valid": 2000
+      },
+      "total_planted_effect": 0.8752463666133663,
+      "trained_minus_arm_effect": 0.4406138165024452,
+      "placebo_minus_arm_effect": 0.374249203340787,
+      "recovery_error_vs_total": -0.5009971632725794,
+      "recovery_error_vs_removed_effect": -0.0663646131616582,
+      "ci_low": 0.0657266599955064,
+      "ci_high": 0.7291946601162616,
+      "bootstrap_valid": 2000,
+      "recovery_error_interval": {
+        "ci_low": -0.9757175022532624,
+        "ci_high": 0.031420225969023226,
+        "bootstrap_valid": 2000
+      },
+      "removed_effect_recovery_interval": {
+        "ci_low": -0.25044994041641844,
+        "ci_high": 0.02287932977782029,
+        "bootstrap_valid": 2000
+      },
+      "trained_arm": "N",
+      "placebo_arm": "N_p1",
+      "removal_interval": {
+        "ci_low": 0.11391012604867239,
+        "ci_high": 0.8467116011499871,
+        "bootstrap_valid": 2000
+      }
+    },
+    {
+      "arm": "NP",
+      "metric": "brier",
+      "randomized_effect": 0.6708733804465096,
+      "randomized_effect_interval": {
+        "ci_low": 0.23679312221786927,
+        "ci_high": 1.0768150496336912,
+        "bootstrap_valid": 2000
+      },
+      "total_planted_effect": 0.8752463666133663,
+      "trained_minus_arm_effect": 0.20437298616685673,
+      "placebo_minus_arm_effect": 0.13800837300519853,
+      "recovery_error_vs_total": -0.7372379936081678,
+      "recovery_error_vs_removed_effect": -0.0663646131616582,
+      "ci_low": -0.18751361698739538,
+      "ci_high": 0.47476070800364123,
+      "bootstrap_valid": 2000,
+      "recovery_error_interval": {
+        "ci_low": -1.1515236950296581,
+        "ci_high": -0.2866497390590431,
+        "bootstrap_valid": 2000
+      },
+      "removed_effect_recovery_interval": {
+        "ci_low": -0.2504499404164185,
+        "ci_high": 0.02287932977782029,
+        "bootstrap_valid": 2000
+      },
+      "trained_arm": "N",
+      "placebo_arm": "N_p1",
+      "removal_interval": {
+        "ci_low": -0.1282123535684042,
+        "ci_high": 0.5675116169317516,
+        "bootstrap_valid": 2000
+      }
+    },
+    {
+      "arm": "N_p1",
+      "metric": "brier",
+      "randomized_effect": 0.8088817534517081,
+      "randomized_effect_interval": {
+        "ci_low": 0.4060517397361512,
+        "ci_high": 1.209139628545768,
+        "bootstrap_valid": 2000
+      },
+      "total_planted_effect": 0.8752463666133663,
+      "trained_minus_arm_effect": 0.0663646131616582,
+      "placebo_minus_arm_effect": 0.0,
+      "recovery_error_vs_total": -0.8752463666133663,
+      "recovery_error_vs_removed_effect": -0.0663646131616582,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "bootstrap_valid": 2000,
+      "recovery_error_interval": {
+        "ci_low": -1.2758032840709024,
+        "ci_high": -0.46146909045152645,
+        "bootstrap_valid": 2000
+      },
+      "removed_effect_recovery_interval": {
+        "ci_low": -0.2504499404164185,
+        "ci_high": 0.02287932977782029,
+        "bootstrap_valid": 2000
+      },
+      "trained_arm": "N",
+      "placebo_arm": "N_p1",
+      "removal_interval": {
+        "ci_low": -0.02287932977782029,
+        "ci_high": 0.2504499404164185,
+        "bootstrap_valid": 2000
+      }
+    }
+  ],
+  "interpretation": "The trained-arm effect is the treated-minus-control pre/post performance gain, net of the specified label-control branch. Interpreting a placebo-minus-arm contrast as total recall requires placebo retention and complete arm removal.",
+  "memorized_doses": [
+    60,
+    120,
+    240
+  ],
+  "removal_intervals": {
+    "N": {
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "bootstrap_valid": 2000
+    },
+    "NC": {
+      "ci_low": 0.11391012604867239,
+      "ci_high": 0.8467116011499871,
+      "bootstrap_valid": 2000
+    },
+    "NP": {
+      "ci_low": -0.1282123535684042,
+      "ci_high": 0.5675116169317516,
+      "bootstrap_valid": 2000
+    },
+    "N_p1": {
+      "ci_low": -0.02287932977782029,
+      "ci_high": 0.2504499404164185,
+      "bootstrap_valid": 2000
+    }
+  }
+}

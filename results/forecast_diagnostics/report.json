@@ -1,0 +1,55 @@
+{
+  "validity_gate_auc_0.95": {
+    "Llama 3.1 8B pilot ab_raw": true,
+    "Llama 3.1 8B pilot ab_cal": true,
+    "Llama 3.1 8B pilot word_raw": true,
+    "Llama 3.1 8B pilot word_cal": true,
+    "Llama 3.1 8B quarterly ab_raw": true,
+    "Llama 3.1 8B quarterly ab_cal": true,
+    "Llama 3.1 8B quarterly word_raw": true,
+    "Llama 3.1 8B quarterly word_cal": true,
+    "Muse Glimmer 30B pilot ab_raw": true,
+    "Muse Glimmer 30B pilot ab_cal": true,
+    "Muse Glimmer 30B pilot word_raw": true,
+    "Muse Glimmer 30B pilot word_cal": true
+  },
+  "information_cost": {},
+  "template_nodate": [
+    {
+      "panel": "pilot",
+      "n": 127,
+      "decision_flips_N": 0.09448818897637795,
+      "mean_abs_difference_N": 0.020062186878194978,
+      "auc_N_nodate": 0.44622454048683563,
+      "auc_N_standard": 0.44783904619970194,
+      "theta_NC_nodate": 0.008088686639114728,
+      "theta_NC_nodate_wcr": [
+        -0.009673270255233846,
+        0.02708984982841786
+      ],
+      "theta_NC_standard": 0.014143136411932773,
+      "theta_NC_standard_wcr": [
+        -0.006357049705081962,
+        0.03418776283745829
+      ]
+    },
+    {
+      "panel": "quarterly",
+      "n": 184,
+      "decision_flips_N": 0.07608695652173914,
+      "mean_abs_difference_N": 0.02442726916779361,
+      "auc_N_nodate": 0.6296494355317885,
+      "auc_N_standard": 0.6331550802139037,
+      "theta_NC_nodate": 0.001178928791752975,
+      "theta_NC_nodate_wcr": [
+        -0.012097000226094525,
+        0.014454857809600478
+      ],
+      "theta_NC_standard": 0.00520125192667865,
+      "theta_NC_standard_wcr": [
+        -0.012170407816263829,
+        0.022195266892600637
+      ]
+    }
+  ]
+}

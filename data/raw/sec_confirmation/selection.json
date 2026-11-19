@@ -1,0 +1,3730 @@
+{
+  "frame_sha256": "e78e6426047d9591d80ac5019b69c916279556d38633b270352709e543465b2c",
+  "candidates": [
+    {
+      "cik": 310522,
+      "entityName": "FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE",
+      "assets_CY2018Q4I": 3418318000000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 19617,
+      "entityName": "JPMORGAN CHASE & CO",
+      "assets_CY2018Q4I": 2622532000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 70858,
+      "entityName": "Bank of America Corporation",
+      "assets_CY2018Q4I": 2354507000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1026214,
+      "entityName": "Federal Home Loan Mortgage Corporation",
+      "assets_CY2018Q4I": 2063060000000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 831001,
+      "entityName": "Citigroup Inc.",
+      "assets_CY2018Q4I": 1917383000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 72971,
+      "entityName": "WELLS FARGO & COMPANY/MN",
+      "assets_CY2018Q4I": 1895883000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 886982,
+      "entityName": "The Goldman Sachs Group, Inc.",
+      "assets_CY2018Q4I": 931796000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 895421,
+      "entityName": "MORGAN STANLEY",
+      "assets_CY2018Q4I": 853531000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1137774,
+      "entityName": "PRUDENTIAL FINANCIAL INC",
+      "assets_CY2018Q4I": 815078000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1067983,
+      "entityName": "BERKSHIRE HATHAWAY INC",
+      "assets_CY2018Q4I": 707794000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1099219,
+      "entityName": "METLIFE INC",
+      "assets_CY2018Q4I": 687538000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 732717,
+      "entityName": "AT&T INC.",
+      "assets_CY2018Q4I": 531864000000,
+      "end": "2018-12-31",
+      "sic": "4813",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 5272,
+      "entityName": "AMERICAN INTERNATIONAL GROUP, INC.",
+      "assets_CY2018Q4I": 491984000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 36104,
+      "entityName": "US BANCORP \\DE\\",
+      "assets_CY2018Q4I": 467374000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 937834,
+      "entityName": "Metropolitan Life Insurance Co",
+      "assets_CY2018Q4I": 406917000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 713676,
+      "entityName": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "assets_CY2018Q4I": 382315000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 320193,
+      "entityName": "Apple Inc.",
+      "assets_CY2018Q4I": 373719000000,
+      "end": "2018-12-29",
+      "sic": "3571",
+      "fiscalYearEnd": "0926",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 927628,
+      "entityName": "CAPITAL ONE FINANCIAL CORP",
+      "assets_CY2018Q4I": 372538000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1390777,
+      "entityName": "Bank of New York Mellon Corp",
+      "assets_CY2018Q4I": 362873000000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 34088,
+      "entityName": "Exxon Mobil Corporation",
+      "assets_CY2018Q4I": 346196000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 40545,
+      "entityName": "General Electric Company",
+      "assets_CY2018Q4I": 311072000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 726865,
+      "entityName": "THE LINCOLN NATIONAL LIFE INSURANCE COMPANY",
+      "assets_CY2018Q4I": 299145000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 59558,
+      "entityName": "Lincoln National Corporation",
+      "assets_CY2018Q4I": 298147000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 316709,
+      "entityName": "SCHWAB CHARLES CORP",
+      "assets_CY2018Q4I": 296482000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 732712,
+      "entityName": "Verizon Communications Inc.",
+      "assets_CY2018Q4I": 264829000000,
+      "end": "2018-12-31",
+      "sic": "4813",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 789019,
+      "entityName": "MICROSOFT CORPORATION",
+      "assets_CY2018Q4I": 258859000000,
+      "end": "2018-12-31",
+      "sic": "7372",
+      "fiscalYearEnd": "0630",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 37996,
+      "entityName": "FORD MOTOR CO",
+      "assets_CY2018Q4I": 256540000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 93410,
+      "entityName": "Chevron Corp",
+      "assets_CY2018Q4I": 253863000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 1166691,
+      "entityName": "Comcast Corporation",
+      "assets_CY2018Q4I": 251684000000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 93751,
+      "entityName": "STATE STREET CORP",
+      "assets_CY2018Q4I": 244596000000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1126328,
+      "entityName": "PRINCIPAL FINANCIAL GROUP, INC.",
+      "assets_CY2018Q4I": 243036100000,
+      "end": "2018-12-31",
+      "sic": "6321",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1652044,
+      "entityName": "ALPHABET INC.",
+      "assets_CY2018Q4I": 232792000000,
+      "end": "2018-12-31",
+      "sic": "7370",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1467858,
+      "entityName": "GENERAL MOTORS COMPANY",
+      "assets_CY2018Q4I": 227339000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 92230,
+      "entityName": "Truist Financial Corporation",
+      "assets_CY2018Q4I": 225697000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1333986,
+      "entityName": "Equitable Holdings, Inc.",
+      "assets_CY2018Q4I": 220779000000,
+      "end": "2018-12-31",
+      "sic": "6411",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 104169,
+      "entityName": "Walmart Inc.",
+      "assets_CY2018Q4I": 219295000000,
+      "end": "2019-01-31",
+      "sic": "5331",
+      "fiscalYearEnd": "0131",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 750556,
+      "entityName": "SunTrust Banks, Inc",
+      "assets_CY2018Q4I": 215543000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1685040,
+      "entityName": "Brighthouse Financial, Inc.",
+      "assets_CY2018Q4I": 206294000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 727920,
+      "entityName": "EQUITABLE FINANCIAL LIFE INSURANCE COMPANY",
+      "assets_CY2018Q4I": 199958000000,
+      "end": "2018-12-31",
+      "sic": "6411",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 64803,
+      "entityName": "CVS HEALTH CORPORATION",
+      "assets_CY2018Q4I": 196456000000,
+      "end": "2018-12-31",
+      "sic": "5912",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 733076,
+      "entityName": "Brighthouse Life Insurance Company",
+      "assets_CY2018Q4I": 195830000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 4962,
+      "entityName": "AMERICAN EXPRESS CO",
+      "assets_CY2018Q4I": 189000000000,
+      "end": "2018-12-31",
+      "sic": "6199",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1666700,
+      "entityName": "DUPONT DE NEMOURS, INC.",
+      "assets_CY2018Q4I": 187855000000,
+      "end": "2018-12-31",
+      "sic": "2821",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 40729,
+      "entityName": "Ally Financial Inc.",
+      "assets_CY2018Q4I": 178869000000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 83246,
+      "entityName": "HSBC USA Inc.",
+      "assets_CY2018Q4I": 172448000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1011659,
+      "entityName": "MUFG Americas Holdings Corporation",
+      "assets_CY2018Q4I": 168100000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 896159,
+      "entityName": "CHUBB LIMITED",
+      "assets_CY2018Q4I": 167771000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 777917,
+      "entityName": "PRUCO LIFE INSURANCE CO",
+      "assets_CY2018Q4I": 164680784000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1018724,
+      "entityName": "AMAZON.COM, INC.",
+      "assets_CY2018Q4I": 162648000000,
+      "end": "2018-12-31",
+      "sic": "5961",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 38009,
+      "entityName": "Ford Motor Credit Co LLC",
+      "assets_CY2018Q4I": 162209000000,
+      "end": "2018-12-31",
+      "sic": "6159",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 759944,
+      "entityName": "CITIZENS FINANCIAL GROUP INC/RI",
+      "assets_CY2018Q4I": 160518000000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1364742,
+      "entityName": "BLACKROCK FINANCE, INC.",
+      "assets_CY2018Q4I": 159573000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 78003,
+      "entityName": "PFIZER INC",
+      "assets_CY2018Q4I": 159422000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 1535929,
+      "entityName": "Voya Financial, Inc.",
+      "assets_CY2018Q4I": 155382000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1331465,
+      "entityName": "FEDERAL HOME LOAN BANK OF ATLANTA",
+      "assets_CY2018Q4I": 154476000000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1739940,
+      "entityName": "The Cigna Group",
+      "assets_CY2018Q4I": 153226000000,
+      "end": "2018-12-31",
+      "sic": "6324",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 200406,
+      "entityName": "Johnson & Johnson",
+      "assets_CY2018Q4I": 152954000000,
+      "end": "2018-12-30",
+      "sic": "2834",
+      "fiscalYearEnd": "0103",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 731766,
+      "entityName": "UnitedHealth Group Incorporated",
+      "assets_CY2018Q4I": 152221000000,
+      "end": "2018-12-31",
+      "sic": "6324",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 45947,
+      "entityName": "TALCOTT RESOLUTION LIFE INSURANCE CO",
+      "assets_CY2018Q4I": 150146000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1325814,
+      "entityName": "Federal Home Loan Bank of Des Moines",
+      "assets_CY2018Q4I": 146515000000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1091667,
+      "entityName": "Charter Communications, Inc.",
+      "assets_CY2018Q4I": 146130000000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 35527,
+      "entityName": "Fifth Third Bancorp",
+      "assets_CY2018Q4I": 146069000000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1326160,
+      "entityName": "DUKE ENERGY CORPORATION",
+      "assets_CY2018Q4I": 145392000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1271833,
+      "entityName": "CCO Holdings, LLC",
+      "assets_CY2018Q4I": 144898000000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1329842,
+      "entityName": "Federal Home Loan Bank of New York",
+      "assets_CY2018Q4I": 144381394000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 4977,
+      "entityName": "Aflac Incorporated",
+      "assets_CY2018Q4I": 140406000000,
+      "end": "2018-12-31",
+      "sic": "6321",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 91576,
+      "entityName": "KeyCorp",
+      "assets_CY2018Q4I": 139613000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 820027,
+      "entityName": "AMERIPRISE FINANCIAL INC",
+      "assets_CY2018Q4I": 137216000000,
+      "end": "2018-12-31",
+      "sic": "6282",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 811830,
+      "entityName": "Santander Holdings USA, Inc.",
+      "assets_CY2018Q4I": 135634285000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 101829,
+      "entityName": "RTX CORPORATION",
+      "assets_CY2018Q4I": 134211000000,
+      "end": "2018-12-31",
+      "sic": "3724",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 73124,
+      "entityName": "NORTHERN TRUST CORPORATION",
+      "assets_CY2018Q4I": 132212500000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 50863,
+      "entityName": "INTEL CORP",
+      "assets_CY2018Q4I": 127963000000,
+      "end": "2018-12-29",
+      "sic": "3674",
+      "fiscalYearEnd": "1227",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1281761,
+      "entityName": "REGIONS FINANCIAL CORPORATION",
+      "assets_CY2018Q4I": 125688000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1527469,
+      "entityName": "ATHENE HOLDING LTD",
+      "assets_CY2018Q4I": 125505000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 80424,
+      "entityName": "PROCTER & GAMBLE CO",
+      "assets_CY2018Q4I": 123687000000,
+      "end": "2018-12-31",
+      "sic": "2840",
+      "fiscalYearEnd": "0630",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 51143,
+      "entityName": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+      "assets_CY2018Q4I": 123382000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 36270,
+      "entityName": "M&T BANK CORPORATION",
+      "assets_CY2018Q4I": 120097403000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1109357,
+      "entityName": "EXELON CORPORATION",
+      "assets_CY2018Q4I": 119634000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 834071,
+      "entityName": "TOYOTA MOTOR CREDIT CORPORATION",
+      "assets_CY2018Q4I": 119122000000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "0331",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1341439,
+      "entityName": "Oracle Corporation",
+      "assets_CY2018Q4I": 118318000000,
+      "end": "2018-11-30",
+      "sic": "7372",
+      "fiscalYearEnd": "0531",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 12927,
+      "entityName": "BOEING CO",
+      "assets_CY2018Q4I": 117359000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 92122,
+      "entityName": "The Southern Company",
+      "assets_CY2018Q4I": 116914000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 899051,
+      "entityName": "ALLSTATE CORP",
+      "assets_CY2018Q4I": 112249000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1571996,
+      "entityName": "Dell Technologies Inc.",
+      "assets_CY2018Q4I": 111820000000,
+      "end": "2019-02-01",
+      "sic": "3571",
+      "fiscalYearEnd": "0129",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 727892,
+      "entityName": "RIVERSOURCE LIFE INSURANCE COMPANY",
+      "assets_CY2018Q4I": 110073000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 804269,
+      "entityName": "General Motors Financial Company, Inc.",
+      "assets_CY2018Q4I": 109920000000,
+      "end": "2018-12-31",
+      "sic": "6199",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1393612,
+      "entityName": "DISCOVER FINANCIAL SERVICES",
+      "assets_CY2018Q4I": 109553000000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1316944,
+      "entityName": "FEDERAL HOME LOAN BANK OF SAN FRANCISCO",
+      "assets_CY2018Q4I": 109326000000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1423689,
+      "entityName": "AGNC INVESTMENT CORP.",
+      "assets_CY2018Q4I": 109241000000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 49196,
+      "entityName": "Huntington Bancshares Incorporated",
+      "assets_CY2018Q4I": 108781000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1755672,
+      "entityName": "Corteva, Inc.",
+      "assets_CY2018Q4I": 108683000000,
+      "end": "2018-12-31",
+      "sic": "0100",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1330399,
+      "entityName": "Federal Home Loan Bank of Pittsburgh",
+      "assets_CY2018Q4I": 107486519000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1601712,
+      "entityName": "SYNCHRONY FINANCIAL",
+      "assets_CY2018Q4I": 106792000000,
+      "end": "2018-12-31",
+      "sic": "6199",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1043219,
+      "entityName": "ANNALY CAPITAL MANAGEMENT INC",
+      "assets_CY2018Q4I": 105787527000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 86312,
+      "entityName": "Travelers Companies, Inc.",
+      "assets_CY2018Q4I": 104233000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1593538,
+      "entityName": "Navient Corporation",
+      "assets_CY2018Q4I": 104176000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 753308,
+      "entityName": "NEXTERA ENERGY, INC.",
+      "assets_CY2018Q4I": 103702000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1637459,
+      "entityName": "Kraft Heinz Co",
+      "assets_CY2018Q4I": 103461000000,
+      "end": "2018-12-29",
+      "sic": "2030",
+      "fiscalYearEnd": "1226",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 837010,
+      "entityName": "VOYA RETIREMENT INSURANCE & ANNUITY CO",
+      "assets_CY2018Q4I": 102800000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 858877,
+      "entityName": "CISCO SYSTEMS, INC.",
+      "assets_CY2018Q4I": 102462000000,
+      "end": "2019-01-26",
+      "sic": "3576",
+      "fiscalYearEnd": "0731",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1578845,
+      "entityName": "ALLERGAN PLC",
+      "assets_CY2018Q4I": 101787600000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 30554,
+      "entityName": "DUPONT E I DE NEMOURS & CO",
+      "assets_CY2018Q4I": 101025000000,
+      "end": "2018-12-31",
+      "sic": "2820",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1276520,
+      "entityName": "GENWORTH FINANCIAL INC",
+      "assets_CY2018Q4I": 100923000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1001039,
+      "entityName": "WALT DISNEY CO/",
+      "assets_CY2018Q4I": 99941000000,
+      "end": "2018-12-29",
+      "sic": "7990",
+      "fiscalYearEnd": "0928",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1744489,
+      "entityName": "Walt Disney Co",
+      "assets_CY2018Q4I": 99941000000,
+      "end": "2018-12-29",
+      "sic": "7990",
+      "fiscalYearEnd": "1003",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1326771,
+      "entityName": "FEDERAL HOME LOAN BANK OF CINCINNATI",
+      "assets_CY2018Q4I": 99202573000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1326801,
+      "entityName": "Meta Platforms, Inc.",
+      "assets_CY2018Q4I": 97334000000,
+      "end": "2018-12-31",
+      "sic": "7370",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1707925,
+      "entityName": "LINDE PLC",
+      "assets_CY2018Q4I": 93386000000,
+      "end": "2018-12-31",
+      "sic": "2810",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1510295,
+      "entityName": "Marathon Petroleum Corporation",
+      "assets_CY2018Q4I": 92940000000,
+      "end": "2018-12-31",
+      "sic": "2911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1331451,
+      "entityName": "FEDERAL HOME LOAN BANK OF CHICAGO",
+      "assets_CY2018Q4I": 92857000000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1571949,
+      "entityName": "INTERCONTINENTAL EXCHANGE, INC.",
+      "assets_CY2018Q4I": 92791000000,
+      "end": "2018-12-31",
+      "sic": "6200",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1081316,
+      "entityName": "BERKSHIRE HATHAWAY ENERGY COMPANY",
+      "assets_CY2018Q4I": 92189000000,
+      "end": "2018-12-31",
+      "sic": "4900",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1409775,
+      "entityName": "BBVA USA Bancshares, Inc.",
+      "assets_CY2018Q4I": 90947174000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 355429,
+      "entityName": "PROTECTIVE LIFE CORPORATION",
+      "assets_CY2018Q4I": 89938754000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 310826,
+      "entityName": "PROTECTIVE LIFE INSURANCE CO",
+      "assets_CY2018Q4I": 89383069000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1613103,
+      "entityName": "Medtronic plc",
+      "assets_CY2018Q4I": 88730000000,
+      "end": "2019-01-25",
+      "sic": "3845",
+      "fiscalYearEnd": "0424",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1161154,
+      "entityName": "Energy Transfer Operating, L.P.",
+      "assets_CY2018Q4I": 88609000000,
+      "end": "2018-12-31",
+      "sic": "4610",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1276187,
+      "entityName": "ENERGY TRANSFER LP",
+      "assets_CY2018Q4I": 88413000000,
+      "end": "2018-12-31",
+      "sic": "4922",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 101830,
+      "entityName": "SPRINT CORP",
+      "assets_CY2018Q4I": 86404000000,
+      "end": "2018-12-31",
+      "sic": "4813",
+      "fiscalYearEnd": "0331",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 934612,
+      "entityName": "Burlington Northern Santa Fe, LLC",
+      "assets_CY2018Q4I": 85093000000,
+      "end": "2018-12-31",
+      "sic": "4011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1751788,
+      "entityName": "Dow Inc.",
+      "assets_CY2018Q4I": 83699000000,
+      "end": "2018-12-31",
+      "sic": "2821",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 21344,
+      "entityName": "COCA COLA CO",
+      "assets_CY2018Q4I": 83216000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 310158,
+      "entityName": "Merck & Co., Inc.",
+      "assets_CY2018Q4I": 82637000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 1506307,
+      "entityName": "KINDER MORGAN, INC.",
+      "assets_CY2018Q4I": 78866000000,
+      "end": "2018-12-31",
+      "sic": "4922",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 18230,
+      "entityName": "CATERPILLAR INC",
+      "assets_CY2018Q4I": 78509000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 60086,
+      "entityName": "LOEWS CORPORATION",
+      "assets_CY2018Q4I": 78316000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 715957,
+      "entityName": "DOMINION ENERGY, INC",
+      "assets_CY2018Q4I": 77914000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 77476,
+      "entityName": "PepsiCo, Inc.",
+      "assets_CY2018Q4I": 77648000000,
+      "end": "2018-12-29",
+      "sic": "2080",
+      "fiscalYearEnd": "1226",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1156375,
+      "entityName": "CME GROUP INC.",
+      "assets_CY2018Q4I": 77475700000,
+      "end": "2018-12-31",
+      "sic": "6200",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 29915,
+      "entityName": "DOW CHEMICAL CO /DE/",
+      "assets_CY2018Q4I": 77378000000,
+      "end": "2018-12-31",
+      "sic": "2821",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1004980,
+      "entityName": "PG&E CORPORATION",
+      "assets_CY2018Q4I": 76995000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 864270,
+      "entityName": "AMERICAN HONDA FINANCE CORP",
+      "assets_CY2018Q4I": 74369000000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "0331",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1331757,
+      "entityName": "Federal Home Loan Bank of Dallas",
+      "assets_CY2018Q4I": 72773290000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1283699,
+      "entityName": "T-MOBILE US, INC.",
+      "assets_CY2018Q4I": 72468000000,
+      "end": "2018-12-31",
+      "sic": "4812",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1730168,
+      "entityName": "Broadcom Inc.",
+      "assets_CY2018Q4I": 72110000000,
+      "end": "2019-02-03",
+      "sic": "3674",
+      "fiscalYearEnd": "1101",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1403161,
+      "entityName": "VISA INC.",
+      "assets_CY2018Q4I": 71655000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1156039,
+      "entityName": "Elevance Health, Inc.",
+      "assets_CY2018Q4I": 71571000000,
+      "end": "2018-12-31",
+      "sic": "6324",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 28412,
+      "entityName": "COMERICA INCORPORATED",
+      "assets_CY2018Q4I": 70818000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 87347,
+      "entityName": "SCHLUMBERGER LIMITED/NV",
+      "assets_CY2018Q4I": 70507000000,
+      "end": "2018-12-31",
+      "sic": "1389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 18926,
+      "entityName": "LUMEN TECHNOLOGIES, INC.",
+      "assets_CY2018Q4I": 70256000000,
+      "end": "2018-12-31",
+      "sic": "4813",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1163165,
+      "entityName": "ConocoPhillips",
+      "assets_CY2018Q4I": 69980000000,
+      "end": "2018-12-31",
+      "sic": "2911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1618921,
+      "entityName": "WALGREENS BOOTS ALLIANCE, INC.",
+      "assets_CY2018Q4I": 69941000000,
+      "end": "2018-11-30",
+      "sic": "5912",
+      "fiscalYearEnd": "0831",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 315189,
+      "entityName": "DEERE & CO",
+      "assets_CY2018Q4I": 69918000000,
+      "end": "2019-01-27",
+      "sic": "3523",
+      "fiscalYearEnd": "1101",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 4904,
+      "entityName": "AMERICAN ELECTRIC POWER COMPANY, INC.",
+      "assets_CY2018Q4I": 68802800000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 109380,
+      "entityName": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION",
+      "assets_CY2018Q4I": 68746000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1465128,
+      "entityName": "Starwood Property Trust, Inc.",
+      "assets_CY2018Q4I": 68262453000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1800,
+      "entityName": "Abbott Laboratories",
+      "assets_CY2018Q4I": 67173000000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 318154,
+      "entityName": "Amgen Inc.",
+      "assets_CY2018Q4I": 66416000000,
+      "end": "2018-12-31",
+      "sic": "2836",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1308161,
+      "entityName": "TWENTY-FIRST CENTURY FOX, INC.",
+      "assets_CY2018Q4I": 65886000000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "0630",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1331754,
+      "entityName": "FEDERAL HOME LOAN BANK OF INDIANAPOLIS",
+      "assets_CY2018Q4I": 65411699000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1015780,
+      "entityName": "E TRADE FINANCIAL CORP",
+      "assets_CY2018Q4I": 65003000000,
+      "end": "2018-12-31",
+      "sic": "6035",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 898174,
+      "entityName": "REINSURANCE GROUP OF AMERICA INC",
+      "assets_CY2018Q4I": 64535000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 882095,
+      "entityName": "GILEAD SCIENCES, INC.",
+      "assets_CY2018Q4I": 63675000000,
+      "end": "2018-12-31",
+      "sic": "2836",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1331463,
+      "entityName": "FEDERAL HOME LOAN BANK OF BOSTON",
+      "assets_CY2018Q4I": 63593317000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1042046,
+      "entityName": "AMERICAN FINANCIAL GROUP, INC.",
+      "assets_CY2018Q4I": 63456000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1103982,
+      "entityName": "MONDELEZ INTERNATIONAL, INC.",
+      "assets_CY2018Q4I": 62618000000,
+      "end": "2018-12-31",
+      "sic": "2000",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 874766,
+      "entityName": "The Hartford Insurance Group, Inc.",
+      "assets_CY2018Q4I": 62307000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 5513,
+      "entityName": "UNUM GROUP",
+      "assets_CY2018Q4I": 61875600000,
+      "end": "2018-12-31",
+      "sic": "6321",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1039828,
+      "entityName": "AMERICAN NATIONAL GROUP INC.",
+      "assets_CY2018Q4I": 61625564000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 927653,
+      "entityName": "McKESSON CORPORATION",
+      "assets_CY2018Q4I": 61011000000,
+      "end": "2018-12-31",
+      "sic": "5122",
+      "fiscalYearEnd": "0331",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 818686,
+      "entityName": "TEVA PHARMACEUTICAL INDUSTRIES LIMITED",
+      "assets_CY2018Q4I": 60683000000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1032208,
+      "entityName": "SEMPRA",
+      "assets_CY2018Q4I": 60638000000,
+      "end": "2018-12-31",
+      "sic": "4932",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 6201,
+      "entityName": "AMERICAN AIRLINES GROUP INC.",
+      "assets_CY2018Q4I": 60580000000,
+      "end": "2018-12-31",
+      "sic": "4512",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1381197,
+      "entityName": "INTERACTIVE BROKERS GROUP, INC.",
+      "assets_CY2018Q4I": 60547000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 27904,
+      "entityName": "DELTA AIR LINES, INC.",
+      "assets_CY2018Q4I": 60266000000,
+      "end": "2018-12-31",
+      "sic": "4512",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1551152,
+      "entityName": "ABBVIE INC.",
+      "assets_CY2018Q4I": 59352000000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 100885,
+      "entityName": "UNION PACIFIC CORPORATION",
+      "assets_CY2018Q4I": 59147000000,
+      "end": "2018-12-31",
+      "sic": "4011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 773840,
+      "entityName": "HONEYWELL INTERNATIONAL INC",
+      "assets_CY2018Q4I": 57773000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 21175,
+      "entityName": "CNA FINANCIAL CORPORATION",
+      "assets_CY2018Q4I": 57152000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1061219,
+      "entityName": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+      "assets_CY2018Q4I": 56969800000,
+      "end": "2018-12-31",
+      "sic": "4922",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 719739,
+      "entityName": "SVB Financial Group",
+      "assets_CY2018Q4I": 56927979000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 827052,
+      "entityName": "EDISON INTERNATIONAL",
+      "assets_CY2018Q4I": 56715000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 97745,
+      "entityName": "THERMO FISHER SCIENTIFIC INC.",
+      "assets_CY2018Q4I": 56232000000,
+      "end": "2018-12-31",
+      "sic": "3829",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 764180,
+      "entityName": "ALTRIA GROUP, INC.",
+      "assets_CY2018Q4I": 55459000000,
+      "end": "2018-12-31",
+      "sic": "2111",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 881453,
+      "entityName": "Fortitude Life Insurance & Annuity Co",
+      "assets_CY2018Q4I": 54677844000,
+      "end": "2018-12-31",
+      "sic": "6399",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1534701,
+      "entityName": "Phillips 66",
+      "assets_CY2018Q4I": 54302000000,
+      "end": "2018-12-31",
+      "sic": "2911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1047862,
+      "entityName": "Consolidated Edison, Inc",
+      "assets_CY2018Q4I": 53920000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1048911,
+      "entityName": "FedEx Corporation",
+      "assets_CY2018Q4I": 53289000000,
+      "end": "2018-11-30",
+      "sic": "4513",
+      "fiscalYearEnd": "0531",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1570585,
+      "entityName": "Liberty Global Ltd.",
+      "assets_CY2018Q4I": 53153600000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 10795,
+      "entityName": "BECTON, DICKINSON AND COMPANY",
+      "assets_CY2018Q4I": 52932000000,
+      "end": "2018-12-31",
+      "sic": "3841",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1701605,
+      "entityName": "Baker Hughes Co",
+      "assets_CY2018Q4I": 52439000000,
+      "end": "2018-12-31",
+      "sic": "3533",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 808362,
+      "entityName": "Baker Hughes Holdings LLC",
+      "assets_CY2018Q4I": 52234000000,
+      "end": "2018-12-31",
+      "sic": "3533",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 910073,
+      "entityName": "FLAGSTAR FINANCIAL, INC.",
+      "assets_CY2018Q4I": 51899376000,
+      "end": "2018-12-31",
+      "sic": "6036",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1645590,
+      "entityName": "HEWLETT PACKARD ENTERPRISE COMPANY",
+      "assets_CY2018Q4I": 51758000000,
+      "end": "2019-01-31",
+      "sic": "3570",
+      "fiscalYearEnd": "1031",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1404912,
+      "entityName": "KKR & Co. Inc.",
+      "assets_CY2018Q4I": 50743375000,
+      "end": "2018-12-31",
+      "sic": "6282",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1035002,
+      "entityName": "VALERO ENERGY CORP/TX",
+      "assets_CY2018Q4I": 50155000000,
+      "end": "2018-12-31",
+      "sic": "2911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1090727,
+      "entityName": "United Parcel Service, Inc.",
+      "assets_CY2018Q4I": 50016000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 100517,
+      "entityName": "United Airlines Holdings, Inc.",
+      "assets_CY2018Q4I": 49024000000,
+      "end": "2018-12-31",
+      "sic": "4512",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1418135,
+      "entityName": "Keurig Dr Pepper Inc.",
+      "assets_CY2018Q4I": 48918000000,
+      "end": "2018-12-31",
+      "sic": "2080",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1376986,
+      "entityName": "TENNESSEE VALLEY AUTHORITY",
+      "assets_CY2018Q4I": 48747000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1171825,
+      "entityName": "CIT GROUP INC",
+      "assets_CY2018Q4I": 48537400000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 65984,
+      "entityName": "ENTERGY CORPORATION",
+      "assets_CY2018Q4I": 48275066000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 833444,
+      "entityName": "JOHNSON CONTROLS INTERNATIONAL PLC",
+      "assets_CY2018Q4I": 48016000000,
+      "end": "2018-12-31",
+      "sic": "3585",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1378946,
+      "entityName": "People's United Financial, Inc.",
+      "assets_CY2018Q4I": 47877300000,
+      "end": "2018-12-31",
+      "sic": "6035",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 313616,
+      "entityName": "DANAHER CORPORATION",
+      "assets_CY2018Q4I": 47833000000,
+      "end": "2018-12-31",
+      "sic": "3823",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1325878,
+      "entityName": "Federal Home Loan Bank of Topeka",
+      "assets_CY2018Q4I": 47715256000,
+      "end": "2018-12-31",
+      "sic": "6111",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 763901,
+      "entityName": "POPULAR, INC.",
+      "assets_CY2018Q4I": 47604577000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 96223,
+      "entityName": "Jefferies Financial Group Inc.",
+      "assets_CY2018Q4I": 47131095000,
+      "end": "2018-11-30",
+      "sic": "6211",
+      "fiscalYearEnd": "1130",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 80661,
+      "entityName": "PROGRESSIVE CORP/OH/",
+      "assets_CY2018Q4I": 46575000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1567094,
+      "entityName": "CNH INDUSTRIAL N.V.",
+      "assets_CY2018Q4I": 46100000000,
+      "end": "2018-12-31",
+      "sic": "3531",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 72903,
+      "entityName": "XCEL ENERGY INC",
+      "assets_CY2018Q4I": 45987000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 40533,
+      "entityName": "GENERAL DYNAMICS CORPORATION",
+      "assets_CY2018Q4I": 45887000000,
+      "end": "2018-12-31",
+      "sic": "3730",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 788784,
+      "entityName": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+      "assets_CY2018Q4I": 45326000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 107263,
+      "entityName": "Williams Companies, Inc.",
+      "assets_CY2018Q4I": 45302000000,
+      "end": "2018-12-31",
+      "sic": "4922",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 936468,
+      "entityName": "LOCKHEED MARTIN CORPORATION",
+      "assets_CY2018Q4I": 44876000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 723125,
+      "entityName": "Micron Technology, Inc.",
+      "assets_CY2018Q4I": 44595000000,
+      "end": "2018-11-29",
+      "sic": "3674",
+      "fiscalYearEnd": "0903",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 813828,
+      "entityName": "Paramount Global",
+      "assets_CY2018Q4I": 44497000000,
+      "end": "2018-12-31",
+      "sic": "4833",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1091587,
+      "entityName": "ABB Ltd",
+      "assets_CY2018Q4I": 44441000000,
+      "end": "2018-12-31",
+      "sic": "3613",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 354950,
+      "entityName": "HOME DEPOT, INC.",
+      "assets_CY2018Q4I": 44003000000,
+      "end": "2019-02-03",
+      "sic": "5211",
+      "fiscalYearEnd": "0131",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1580608,
+      "entityName": "SANTANDER CONSUMER USA HOLDINGS INC.",
+      "assets_CY2018Q4I": 43959855000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 59478,
+      "entityName": "ELI LILLY AND COMPANY",
+      "assets_CY2018Q4I": 43908400000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 909832,
+      "entityName": "COSTCO WHOLESALE CORP /NEW",
+      "assets_CY2018Q4I": 43814000000,
+      "end": "2018-11-25",
+      "sic": "5331",
+      "fiscalYearEnd": "0830",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 922224,
+      "entityName": "PPL Corporation",
+      "assets_CY2018Q4I": 43396000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1633917,
+      "entityName": "PayPal Holdings, Inc.",
+      "assets_CY2018Q4I": 43332000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1329099,
+      "entityName": "Baidu, Inc.",
+      "assets_CY2018Q4I": 43279000000,
+      "end": "2018-12-31",
+      "sic": "7370",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1378789,
+      "entityName": "AerCap Holdings N.V.",
+      "assets_CY2018Q4I": 43208915000,
+      "end": "2018-12-31",
+      "sic": "7359",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 815097,
+      "entityName": "Carnival Corporation",
+      "assets_CY2018Q4I": 42401000000,
+      "end": "2018-11-30",
+      "sic": "4400",
+      "fiscalYearEnd": "1130",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 831259,
+      "entityName": "Freeport-McMoRan Inc.",
+      "assets_CY2018Q4I": 42216000000,
+      "end": "2018-12-31",
+      "sic": "1000",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 797468,
+      "entityName": "OCCIDENTAL PETROLEUM CORP /DE/",
+      "assets_CY2018Q4I": 42159000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 27419,
+      "entityName": "TARGET CORP",
+      "assets_CY2018Q4I": 41290000000,
+      "end": "2019-02-02",
+      "sic": "5331",
+      "fiscalYearEnd": "0201",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1084580,
+      "entityName": "JEFFERIES GROUP LLC",
+      "assets_CY2018Q4I": 41168773000,
+      "end": "2018-11-30",
+      "sic": "6211",
+      "fiscalYearEnd": "1130",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1267238,
+      "entityName": "Assurant, Inc.",
+      "assets_CY2018Q4I": 41089300000,
+      "end": "2018-12-31",
+      "sic": "6399",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1069157,
+      "entityName": "EAST WEST BANCORP, INC.",
+      "assets_CY2018Q4I": 41042356000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 7084,
+      "entityName": "ARCHER-DANIELS-MIDLAND CO",
+      "assets_CY2018Q4I": 40833000000,
+      "end": "2018-12-31",
+      "sic": "2070",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 36966,
+      "entityName": "FIRST HORIZON CORP",
+      "assets_CY2018Q4I": 40832258000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1560385,
+      "entityName": "LIBERTY MEDIA CORPORATION",
+      "assets_CY2018Q4I": 40828000000,
+      "end": "2018-12-31",
+      "sic": "4833",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 721371,
+      "entityName": "Cardinal Health, Inc.",
+      "assets_CY2018Q4I": 40462000000,
+      "end": "2018-12-31",
+      "sic": "5122",
+      "fiscalYearEnd": "0630",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 773910,
+      "entityName": "Anadarko Petroleum Corp",
+      "assets_CY2018Q4I": 40376000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 352736,
+      "entityName": "ALLSTATE LIFE INSURANCE CO",
+      "assets_CY2018Q4I": 40142000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1031296,
+      "entityName": "FIRSTENERGY CORP",
+      "assets_CY2018Q4I": 40063000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 4969,
+      "entityName": "AMERICAN EXPRESS CREDIT CORP",
+      "assets_CY2018Q4I": 40042000000,
+      "end": "2018-12-31",
+      "sic": "6153",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1413329,
+      "entityName": "Philip Morris International Inc.",
+      "assets_CY2018Q4I": 39801000000,
+      "end": "2018-12-31",
+      "sic": "2111",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1225307,
+      "entityName": "IBM CREDIT LLC",
+      "assets_CY2018Q4I": 39497000000,
+      "end": "2018-12-31",
+      "sic": "6159",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1552000,
+      "entityName": "MPLX LP",
+      "assets_CY2018Q4I": 39325000000,
+      "end": "2018-12-31",
+      "sic": "4610",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1140859,
+      "entityName": "Cencora, Inc.",
+      "assets_CY2018Q4I": 39267823000,
+      "end": "2018-12-31",
+      "sic": "5122",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 860730,
+      "entityName": "HCA Healthcare, Inc.",
+      "assets_CY2018Q4I": 39207000000,
+      "end": "2018-12-31",
+      "sic": "8062",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 8670,
+      "entityName": "Automatic     Data Processing, Inc.",
+      "assets_CY2018Q4I": 38806300000,
+      "end": "2018-12-31",
+      "sic": "7374",
+      "fiscalYearEnd": "0630",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 720005,
+      "entityName": "RAYMOND JAMES FINANCIAL, INC.",
+      "assets_CY2018Q4I": 38544000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1045609,
+      "entityName": "PROLOGIS, INC.",
+      "assets_CY2018Q4I": 38417664000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 883980,
+      "entityName": "FIRST DATA CORP",
+      "assets_CY2018Q4I": 38327000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 72741,
+      "entityName": "EVERSOURCE ENERGY",
+      "assets_CY2018Q4I": 38241256000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 56873,
+      "entityName": "The Kroger Co.",
+      "assets_CY2018Q4I": 38118000000,
+      "end": "2019-02-02",
+      "sic": "5411",
+      "fiscalYearEnd": "0130",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 875357,
+      "entityName": "BOK FINANCIAL CORP",
+      "assets_CY2018Q4I": 38020504000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1133421,
+      "entityName": "NORTHROP GRUMMAN CORP /DE/",
+      "assets_CY2018Q4I": 37653000000,
+      "end": "2018-12-31",
+      "sic": "3812",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1173431,
+      "entityName": "TD AMERITRADE HOLDING CORP",
+      "assets_CY2018Q4I": 37191000000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 27673,
+      "entityName": "DEERE JOHN CAPITAL CORP",
+      "assets_CY2018Q4I": 36885500000,
+      "end": "2019-01-27",
+      "sic": "6153",
+      "fiscalYearEnd": "1101",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 277948,
+      "entityName": "CSX CORPORATION",
+      "assets_CY2018Q4I": 36729000000,
+      "end": "2018-12-31",
+      "sic": "4011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 66740,
+      "entityName": "3M COMPANY",
+      "assets_CY2018Q4I": 36500000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 936340,
+      "entityName": "DTE Energy Co",
+      "assets_CY2018Q4I": 36288000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 702165,
+      "entityName": "NORFOLK SOUTHERN CORPORATION",
+      "assets_CY2018Q4I": 36239000000,
+      "end": "2018-12-31",
+      "sic": "4011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1616093,
+      "entityName": "Wells Fargo Real Estate Investment Corp.",
+      "assets_CY2018Q4I": 35493267000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 816284,
+      "entityName": "CELGENE CORP /DE/",
+      "assets_CY2018Q4I": 35480000000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 798941,
+      "entityName": "FIRST CITIZENS BANCSHARES INC /DE/",
+      "assets_CY2018Q4I": 35408629000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 14272,
+      "entityName": "BRISTOL-MYERS SQUIBB COMPANY",
+      "assets_CY2018Q4I": 34986000000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 60667,
+      "entityName": "LOWE’S COMPANIES, INC",
+      "assets_CY2018Q4I": 34508000000,
+      "end": "2019-02-01",
+      "sic": "5211",
+      "fiscalYearEnd": "0131",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 804328,
+      "entityName": "QUALCOMM INC/DE",
+      "assets_CY2018Q4I": 34246000000,
+      "end": "2018-12-30",
+      "sic": "3663",
+      "fiscalYearEnd": "0927",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 764764,
+      "entityName": "CATERPILLAR FINANCIAL SERVICES CORPORATION",
+      "assets_CY2018Q4I": 34181000000,
+      "end": "2018-12-31",
+      "sic": "6159",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 821189,
+      "entityName": "EOG RESOURCES, INC.",
+      "assets_CY2018Q4I": 33934474000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 7789,
+      "entityName": "Associated Banc-Corp",
+      "assets_CY2018Q4I": 33615122000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1702780,
+      "entityName": "Altice USA, Inc.",
+      "assets_CY2018Q4I": 33613808000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 51434,
+      "entityName": "INTERNATIONAL PAPER CO /NEW/",
+      "assets_CY2018Q4I": 33576000000,
+      "end": "2018-12-31",
+      "sic": "2621",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 783325,
+      "entityName": "WEC ENERGY GROUP, INC.",
+      "assets_CY2018Q4I": 33475800000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1096343,
+      "entityName": "MARKEL GROUP INC.",
+      "assets_CY2018Q4I": 33306263000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 37808,
+      "entityName": "FNB CORP/PA/",
+      "assets_CY2018Q4I": 33102000000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1053507,
+      "entityName": "AMERICAN TOWER CORP /MA/",
+      "assets_CY2018Q4I": 33010400000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 63908,
+      "entityName": "MCDONALDS CORP",
+      "assets_CY2018Q4I": 32811200000,
+      "end": "2018-12-31",
+      "sic": "5812",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1051470,
+      "entityName": "Crown Castle Inc.",
+      "assets_CY2018Q4I": 32762000000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1623613,
+      "entityName": "MYLAN II B.V.",
+      "assets_CY2018Q4I": 32734900000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1047122,
+      "entityName": "RAYTHEON CO/",
+      "assets_CY2018Q4I": 32670000000,
+      "end": "2018-12-31",
+      "sic": "3812",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 18349,
+      "entityName": "Synovus Financial Corp.",
+      "assets_CY2018Q4I": 32669192000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1437107,
+      "entityName": "Warner Bros. Discovery, Inc.",
+      "assets_CY2018Q4I": 32550000000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 874761,
+      "entityName": "AES CORP",
+      "assets_CY2018Q4I": 32521000000,
+      "end": "2018-12-31",
+      "sic": "4991",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 885590,
+      "entityName": "Bausch Health Companies Inc.",
+      "assets_CY2018Q4I": 32492000000,
+      "end": "2018-12-31",
+      "sic": "2834",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 47217,
+      "entityName": "HP INC.",
+      "assets_CY2018Q4I": 32490000000,
+      "end": "2019-01-31",
+      "sic": "3570",
+      "fiscalYearEnd": "1031",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1222333,
+      "entityName": "SPDR® GOLD TRUST",
+      "assets_CY2018Q4I": 32456939000,
+      "end": "2018-12-31",
+      "sic": "6221",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1140536,
+      "entityName": "WILLIS TOWERS WATSON PLC",
+      "assets_CY2018Q4I": 32385000000,
+      "end": "2018-12-31",
+      "sic": "6411",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 39263,
+      "entityName": "Cullen/Frost Bankers, Inc.",
+      "assets_CY2018Q4I": 32292966000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 794323,
+      "entityName": "LEVEL 3 PARENT, LLC",
+      "assets_CY2018Q4I": 32291000000,
+      "end": "2018-12-31",
+      "sic": "4813",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 947484,
+      "entityName": "Arch Capital Group Ltd.",
+      "assets_CY2018Q4I": 32218329000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 100493,
+      "entityName": "TYSON FOODS, INC.",
+      "assets_CY2018Q4I": 32185000000,
+      "end": "2018-12-29",
+      "sic": "2015",
+      "fiscalYearEnd": "1003",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1634997,
+      "entityName": "Avangrid, Inc.",
+      "assets_CY2018Q4I": 32167000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1504008,
+      "entityName": "BankUnited, Inc.",
+      "assets_CY2018Q4I": 32164326000,
+      "end": "2018-12-31",
+      "sic": "6035",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 3570,
+      "entityName": "CHENIERE ENERGY, INC.",
+      "assets_CY2018Q4I": 31987000000,
+      "end": "2018-12-31",
+      "sic": "4924",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1669600,
+      "entityName": "Liberty Expedia Holdings, Inc.",
+      "assets_CY2018Q4I": 31907000000,
+      "end": "2018-12-31",
+      "sic": "5960",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 714310,
+      "entityName": "Valley National Bancorp",
+      "assets_CY2018Q4I": 31863088000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1556593,
+      "entityName": "Rithm Capital Corp.",
+      "assets_CY2018Q4I": 31691013000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1224608,
+      "entityName": "CNO Financial Group, Inc.",
+      "assets_CY2018Q4I": 31439800000,
+      "end": "2018-12-31",
+      "sic": "6321",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1070154,
+      "entityName": "Sterling Bancorp",
+      "assets_CY2018Q4I": 31383307000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1015328,
+      "entityName": "Wintrust Financial Corp",
+      "assets_CY2018Q4I": 31244849000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1551182,
+      "entityName": "EATON CORPORATION plc",
+      "assets_CY2018Q4I": 31092000000,
+      "end": "2018-12-31",
+      "sic": "3590",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 914208,
+      "entityName": "Invesco Ltd.",
+      "assets_CY2018Q4I": 30978400000,
+      "end": "2018-12-31",
+      "sic": "6282",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1668428,
+      "entityName": "FGL HOLDINGS",
+      "assets_CY2018Q4I": 30945000000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1071739,
+      "entityName": "CENTENE CORPORATION",
+      "assets_CY2018Q4I": 30901000000,
+      "end": "2018-12-31",
+      "sic": "6324",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 933141,
+      "entityName": "IBERIABANK CORP",
+      "assets_CY2018Q4I": 30833015000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1108524,
+      "entityName": "Salesforce, Inc.",
+      "assets_CY2018Q4I": 30737000000,
+      "end": "2019-01-31",
+      "sic": "7372",
+      "fiscalYearEnd": "0131",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1063761,
+      "entityName": "SIMON PROPERTY GROUP, INC.",
+      "assets_CY2018Q4I": 30686223000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1732845,
+      "entityName": "WestRock Company",
+      "assets_CY2018Q4I": 30666900000,
+      "end": "2018-12-31",
+      "sic": "2650",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1001082,
+      "entityName": "DISH Network Corporation",
+      "assets_CY2018Q4I": 30587012000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1549802,
+      "entityName": "JD.com, Inc.",
+      "assets_CY2018Q4I": 30421766000,
+      "end": "2018-12-31",
+      "sic": "5990",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1101215,
+      "entityName": "BREAD FINANCIAL HOLDINGS, INC.",
+      "assets_CY2018Q4I": 30387700000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 40704,
+      "entityName": "GENERAL MILLS INC",
+      "assets_CY2018Q4I": 30384000000,
+      "end": "2018-11-25",
+      "sic": "2040",
+      "fiscalYearEnd": "0530",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 766704,
+      "entityName": "WELLTOWER INC.",
+      "assets_CY2018Q4I": 30342072000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 789570,
+      "entityName": "MGM Resorts International",
+      "assets_CY2018Q4I": 30210706000,
+      "end": "2018-12-31",
+      "sic": "7011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1465740,
+      "entityName": "TWO HARBORS INVESTMENT CORP.",
+      "assets_CY2018Q4I": 30132479000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 24545,
+      "entityName": "MOLSON COORS BEVERAGE COMPANY",
+      "assets_CY2018Q4I": 30109800000,
+      "end": "2018-12-31",
+      "sic": "2082",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1318605,
+      "entityName": "Tesla, Inc.",
+      "assets_CY2018Q4I": 29740000000,
+      "end": "2018-12-31",
+      "status": "excluded: pilot filer"
+    },
+    {
+      "cik": 1393818,
+      "entityName": "Blackstone Inc.",
+      "assets_CY2018Q4I": 28924650000,
+      "end": "2018-12-31",
+      "sic": "6282",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1688568,
+      "entityName": "DXC TECHNOLOGY COMPANY",
+      "assets_CY2018Q4I": 28871000000,
+      "end": "2018-12-31",
+      "sic": "7374",
+      "fiscalYearEnd": "0331",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 946155,
+      "entityName": "TIAA REAL ESTATE ACCOUNT",
+      "assets_CY2018Q4I": 28818200000,
+      "end": "2018-12-31",
+      "sic": "6500",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 920760,
+      "entityName": "LENNAR CORP /NEW/",
+      "assets_CY2018Q4I": 28566181000,
+      "end": "2018-11-30",
+      "sic": "1520",
+      "fiscalYearEnd": "1130",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1489393,
+      "entityName": "LYONDELLBASELL INDUSTRIES N.V.",
+      "assets_CY2018Q4I": 28278000000,
+      "end": "2018-12-31",
+      "sic": "2860",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1077428,
+      "entityName": "TEXAS CAPITAL BANCSHARES INC/TX",
+      "assets_CY2018Q4I": 28257767000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 750577,
+      "entityName": "HANCOCK WHITNEY CORPORATION",
+      "assets_CY2018Q4I": 28235907000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 106040,
+      "entityName": "WESTERN DIGITAL CORP",
+      "assets_CY2018Q4I": 27939000000,
+      "end": "2018-12-28",
+      "sic": "3572",
+      "fiscalYearEnd": "0703",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 16918,
+      "entityName": "CONSTELLATION BRANDS, INC.",
+      "assets_CY2018Q4I": 27890400000,
+      "end": "2018-11-30",
+      "sic": "2080",
+      "fiscalYearEnd": "0228",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1409493,
+      "entityName": "CHIMERA INVESTMENT CORP",
+      "assets_CY2018Q4I": 27708639000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 884887,
+      "entityName": "ROYAL CARIBBEAN CRUISES LTD.",
+      "assets_CY2018Q4I": 27698270000,
+      "end": "2018-12-31",
+      "sic": "4400",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 801337,
+      "entityName": "WEBSTER FINANCIAL CORPORATION",
+      "assets_CY2018Q4I": 27610315000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 24741,
+      "entityName": "CORNING INC /NY",
+      "assets_CY2018Q4I": 27505000000,
+      "end": "2018-12-31",
+      "sic": "3357",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 310764,
+      "entityName": "STRYKER CORP",
+      "assets_CY2018Q4I": 27229000000,
+      "end": "2018-12-31",
+      "sic": "3841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1002910,
+      "entityName": "AMEREN CORPORATION",
+      "assets_CY2018Q4I": 27215000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1130310,
+      "entityName": "CENTERPOINT ENERGY INC",
+      "assets_CY2018Q4I": 27093000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1269238,
+      "entityName": "Trip.com Group Limited",
+      "assets_CY2018Q4I": 27028000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1077771,
+      "entityName": "UMPQUA HOLDINGS CORP",
+      "assets_CY2018Q4I": 26939781000,
+      "end": "2018-12-31",
+      "sic": "6035",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 904163,
+      "entityName": "AMERICAN NATIONAL INSURANCE CO",
+      "assets_CY2018Q4I": 26912353000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1581990,
+      "entityName": "PLAINS GP HOLDINGS LP",
+      "assets_CY2018Q4I": 26830000000,
+      "end": "2018-12-31",
+      "sic": "4610",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 70502,
+      "entityName": "NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION",
+      "assets_CY2018Q4I": 26829758000,
+      "end": "2018-11-30",
+      "sic": "6159",
+      "fiscalYearEnd": "0531",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1467373,
+      "entityName": "Accenture plc",
+      "assets_CY2018Q4I": 26706412000,
+      "end": "2018-11-30",
+      "sic": "7389",
+      "fiscalYearEnd": "0831",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1032033,
+      "entityName": "SLM CORP",
+      "assets_CY2018Q4I": 26638173000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 315293,
+      "entityName": "Aon plc",
+      "assets_CY2018Q4I": 26422000000,
+      "end": "2018-12-31",
+      "sic": "6411",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1358071,
+      "entityName": "CONCHO RESOURCES INC",
+      "assets_CY2018Q4I": 26294000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 92380,
+      "entityName": "SOUTHWEST AIRLINES CO.",
+      "assets_CY2018Q4I": 26243000000,
+      "end": "2018-12-31",
+      "sic": "4512",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1594012,
+      "entityName": "INVESTORS BANCORP, INC.",
+      "assets_CY2018Q4I": 26229008000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1692819,
+      "entityName": "Vistra Corp.",
+      "assets_CY2018Q4I": 26024000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 45012,
+      "entityName": "HALLIBURTON COMPANY",
+      "assets_CY2018Q4I": 25982000000,
+      "end": "2018-12-31",
+      "sic": "1389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1065280,
+      "entityName": "Netflix, Inc.",
+      "assets_CY2018Q4I": 25974400000,
+      "end": "2018-12-31",
+      "sic": "7841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 749098,
+      "entityName": "MAGNA INTERNATIONAL INC",
+      "assets_CY2018Q4I": 25945000000,
+      "end": "2018-12-31",
+      "sic": "3714",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 858339,
+      "entityName": "CAESARS HOLDINGS, INC.",
+      "assets_CY2018Q4I": 25775000000,
+      "end": "2018-12-31",
+      "sic": "7011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1102112,
+      "entityName": "PacWest Bancorp",
+      "assets_CY2018Q4I": 25731354000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1451505,
+      "entityName": "TRANSOCEAN LTD.",
+      "assets_CY2018Q4I": 25665000000,
+      "end": "2018-12-31",
+      "sic": "1381",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1711269,
+      "entityName": "Evergy, Inc.",
+      "assets_CY2018Q4I": 25598100000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1070423,
+      "entityName": "PLAINS ALL AMERICAN PIPELINE LP",
+      "assets_CY2018Q4I": 25511000000,
+      "end": "2018-12-31",
+      "sic": "4610",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 75362,
+      "entityName": "PACCAR Inc",
+      "assets_CY2018Q4I": 25482400000,
+      "end": "2018-12-31",
+      "sic": "3711",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 22356,
+      "entityName": "COMMERCE BANCSHARES, INC.",
+      "assets_CY2018Q4I": 25463842000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 49071,
+      "entityName": "Humana Inc.",
+      "assets_CY2018Q4I": 25413000000,
+      "end": "2018-12-31",
+      "sic": "6324",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 775368,
+      "entityName": "ALLEGHANY CORP /DE",
+      "assets_CY2018Q4I": 25344896000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 875045,
+      "entityName": "BIOGEN INC.",
+      "assets_CY2018Q4I": 25288900000,
+      "end": "2018-12-31",
+      "sic": "2836",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1258602,
+      "entityName": "NELNET, INC",
+      "assets_CY2018Q4I": 25220968000,
+      "end": "2018-12-31",
+      "sic": "6141",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1115055,
+      "entityName": "PINNACLE FINANCIAL PARTNERS, INC.",
+      "assets_CY2018Q4I": 25031044000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 11544,
+      "entityName": "W. R. BERKLEY CORP",
+      "assets_CY2018Q4I": 24895977000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1533932,
+      "entityName": "Worldpay, Inc.",
+      "assets_CY2018Q4I": 24888500000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1141391,
+      "entityName": "Mastercard Inc",
+      "assets_CY2018Q4I": 24860000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1681459,
+      "entityName": "TechnipFMC plc",
+      "assets_CY2018Q4I": 24784500000,
+      "end": "2018-12-31",
+      "sic": "3533",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1095073,
+      "entityName": "Everest Group, Ltd.",
+      "assets_CY2018Q4I": 24750992000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 29989,
+      "entityName": "OMNICOM GROUP INC.",
+      "assets_CY2018Q4I": 24617000000,
+      "end": "2018-12-31",
+      "sic": "7311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 811156,
+      "entityName": "CMS ENERGY CORPORATION",
+      "assets_CY2018Q4I": 24529000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 720672,
+      "entityName": "STIFEL FINANCIAL CORP",
+      "assets_CY2018Q4I": 24519598000,
+      "end": "2018-12-31",
+      "sic": "6211",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1214816,
+      "entityName": "AXIS CAPITAL HOLDINGS LIMITED",
+      "assets_CY2018Q4I": 24132566000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1136869,
+      "entityName": "ZIMMER BIOMET HOLDINGS, INC.",
+      "assets_CY2018Q4I": 24126800000,
+      "end": "2018-12-31",
+      "sic": "3842",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1543151,
+      "entityName": "UBER TECHNOLOGIES, INC.",
+      "assets_CY2018Q4I": 23988000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1136893,
+      "entityName": "Fidelity National Information Services, Inc.",
+      "assets_CY2018Q4I": 23770000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1297996,
+      "entityName": "DIGITAL REALTY TRUST, INC.",
+      "assets_CY2018Q4I": 23766695000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 19612,
+      "entityName": "TCF FINANCIAL CORPORATION",
+      "assets_CY2018Q4I": 23699612000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 814184,
+      "entityName": "TCF FINANCIAL CORP",
+      "assets_CY2018Q4I": 23699612000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1048286,
+      "entityName": "MARRIOTT INTERNATIONAL INC /MD/",
+      "assets_CY2018Q4I": 23696000000,
+      "end": "2018-12-31",
+      "sic": "7011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 20520,
+      "entityName": "FRONTIER COMMUNICATIONS PARENT, INC.",
+      "assets_CY2018Q4I": 23659000000,
+      "end": "2018-12-31",
+      "sic": "4813",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 813762,
+      "entityName": "ICAHN ENTERPRISES L.P.",
+      "assets_CY2018Q4I": 23489000000,
+      "end": "2018-12-31",
+      "sic": "2911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 101382,
+      "entityName": "UMB FINANCIAL CORP",
+      "assets_CY2018Q4I": 23351119000,
+      "end": "2018-12-31",
+      "sic": "6021",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1212545,
+      "entityName": "WESTERN ALLIANCE BANCORPORATION",
+      "assets_CY2018Q4I": 23109486000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 320335,
+      "entityName": "GLOBE LIFE INC.",
+      "assets_CY2018Q4I": 23095722000,
+      "end": "2018-12-31",
+      "sic": "6311",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 23217,
+      "entityName": "CONAGRA BRANDS, INC.",
+      "assets_CY2018Q4I": 23006800000,
+      "end": "2018-11-25",
+      "sic": "2000",
+      "fiscalYearEnd": "0530",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 911421,
+      "entityName": "PartnerRe Ltd.",
+      "assets_CY2018Q4I": 22819191000,
+      "end": "2018-12-31",
+      "sic": "6321",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1065088,
+      "entityName": "eBay Inc.",
+      "assets_CY2018Q4I": 22819000000,
+      "end": "2018-12-31",
+      "sic": "7389",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1193311,
+      "entityName": "ONCOR ELECTRIC DELIVERY CO LLC",
+      "assets_CY2018Q4I": 22752000000,
+      "end": "2018-12-31",
+      "sic": "4911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1339947,
+      "entityName": "VIACOM INC.",
+      "assets_CY2018Q4I": 22744000000,
+      "end": "2018-12-31",
+      "sic": "4841",
+      "fiscalYearEnd": "0930",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1068851,
+      "entityName": "PROSPERITY BANCSHARES, INC.",
+      "assets_CY2018Q4I": 22693402000,
+      "end": "2018-12-31",
+      "sic": "6022",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1075531,
+      "entityName": "Booking Holdings Inc.",
+      "assets_CY2018Q4I": 22687000000,
+      "end": "2018-12-31",
+      "sic": "4700",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 320187,
+      "entityName": "NIKE, Inc.",
+      "assets_CY2018Q4I": 22677000000,
+      "end": "2018-11-30",
+      "sic": "3021",
+      "fiscalYearEnd": "0531",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 823768,
+      "entityName": "WASTE MANAGEMENT INC",
+      "assets_CY2018Q4I": 22650000000,
+      "end": "2018-12-31",
+      "sic": "4953",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 740260,
+      "entityName": "Ventas, Inc.",
+      "assets_CY2018Q4I": 22584555000,
+      "end": "2018-12-31",
+      "sic": "6798",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1478242,
+      "entityName": "IQVIA HOLDINGS INC.",
+      "assets_CY2018Q4I": 22549000000,
+      "end": "2018-12-31",
+      "sic": "8731",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1300514,
+      "entityName": "LAS VEGAS SANDS CORP.",
+      "assets_CY2018Q4I": 22547000000,
+      "end": "2018-12-31",
+      "sic": "7011",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 70318,
+      "entityName": "TENET HEALTHCARE CORP",
+      "assets_CY2018Q4I": 22430000000,
+      "end": "2018-12-31",
+      "sic": "8062",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1679688,
+      "entityName": "DigitalBridge Group, Inc.",
+      "assets_CY2018Q4I": 22215249000,
+      "end": "2018-12-31",
+      "sic": "6282",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 20286,
+      "entityName": "CINCINNATI FINANCIAL CORP",
+      "assets_CY2018Q4I": 21935000000,
+      "end": "2018-12-31",
+      "sic": "6331",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 6281,
+      "entityName": "Analog Devices, Inc.",
+      "assets_CY2018Q4I": 21828278000,
+      "end": "2019-02-02",
+      "sic": "3674",
+      "fiscalYearEnd": "1031",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1111711,
+      "entityName": "NiSource Inc.",
+      "assets_CY2018Q4I": 21804000000,
+      "end": "2018-12-31",
+      "sic": "4931",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1060391,
+      "entityName": "Republic Services, Inc.",
+      "assets_CY2018Q4I": 21617000000,
+      "end": "2018-12-31",
+      "sic": "4953",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1539838,
+      "entityName": "DIAMONDBACK ENERGY, INC.",
+      "assets_CY2018Q4I": 21596000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 6769,
+      "entityName": "APACHE CORPORATION",
+      "assets_CY2018Q4I": 21582000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 62709,
+      "entityName": "Marsh & McLennan Companies, Inc.",
+      "assets_CY2018Q4I": 21578000000,
+      "end": "2018-12-31",
+      "sic": "6411",
+      "fiscalYearEnd": "1231",
+      "status": "excluded: financial SIC"
+    },
+    {
+      "cik": 1413447,
+      "entityName": "NXP Semiconductors N.V.",
+      "assets_CY2018Q4I": 21530000000,
+      "end": "2018-12-31",
+      "sic": "3674",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 4447,
+      "entityName": "HESS CORPORATION",
+      "assets_CY2018Q4I": 21433000000,
+      "end": "2018-12-31",
+      "sic": "2911",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1657853,
+      "entityName": "HERTZ GLOBAL HOLDINGS, INC",
+      "assets_CY2018Q4I": 21382000000,
+      "end": "2018-12-31",
+      "sic": "7510",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 101778,
+      "entityName": "Marathon Oil Corporation",
+      "assets_CY2018Q4I": 21321000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1024305,
+      "entityName": "COTY INC.",
+      "assets_CY2018Q4I": 21270700000,
+      "end": "2018-12-31",
+      "sic": "2844",
+      "fiscalYearEnd": "0630",
+      "status": "excluded: fiscal year end not December"
+    },
+    {
+      "cik": 1410636,
+      "entityName": "American Water Works Company, Inc.",
+      "assets_CY2018Q4I": 21223000000,
+      "end": "2018-12-31",
+      "sic": "4941",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 72207,
+      "entityName": "NOBLE ENERGY INC",
+      "assets_CY2018Q4I": 21010000000,
+      "end": "2018-12-31",
+      "sic": "1311",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 885725,
+      "entityName": "BOSTON SCIENTIFIC CORPORATION",
+      "assets_CY2018Q4I": 20999000000,
+      "end": "2018-12-31",
+      "sic": "3841",
+      "fiscalYearEnd": "1231",
+      "status": "eligible"
+    },
+    {
+      "cik": 1646972,
+      "entityName": "Albertsons Companies, Inc.",
+      "assets_CY2018Q4I": 20981700000,
+      "end": "2018-12-01",
+      "sic": "5411",
+      "fiscalYearEnd": "0227",
+      "status": "excluded: fiscal year end not December"
+    }
+  ],
+  "eligible": [
+    732717,
+    732712,
+    1166691,
+    1652044,
+    64803,
+    1666700,
+    1018724,
+    1091667,
+    1326160,
+    1271833,
+    101829,
+    1109357,
+    92122,
+    1755672,
+    753308,
+    1578845,
+    30554,
+    1326801,
+    1707925,
+    1510295,
+    1081316,
+    1161154,
+    1276187,
+    934612,
+    1751788,
+    1506307,
+    715957,
+    29915,
+    1004980,
+    1283699,
+    87347,
+    18926,
+    1163165,
+    4904,
+    1800,
+    318154,
+    882095,
+    1103982,
+    818686,
+    1032208,
+    6201,
+    27904,
+    1551152,
+    100885,
+    1061219,
+    827052,
+    97745,
+    764180,
+    1534701,
+    1047862,
+    1570585,
+    1701605,
+    808362,
+    1035002,
+    100517,
+    1418135,
+    65984,
+    313616,
+    1567094,
+    72903,
+    40533,
+    788784,
+    107263,
+    813828,
+    1091587,
+    59478,
+    922224,
+    1633917,
+    1329099,
+    1378789,
+    831259,
+    797468,
+    7084,
+    1560385,
+    773910,
+    1031296,
+    1413329,
+    1552000,
+    860730,
+    883980,
+    72741,
+    1133421,
+    277948,
+    936340,
+    702165,
+    816284,
+    14272,
+    821189,
+    1702780,
+    51434,
+    783325,
+    63908,
+    1623613,
+    1047122,
+    1437107,
+    874761,
+    885590,
+    794323,
+    1634997,
+    3570,
+    1669600,
+    1551182,
+    1001082,
+    1549802,
+    789570,
+    24545,
+    1489393,
+    884887,
+    24741,
+    310764,
+    1002910,
+    1130310,
+    1269238,
+    1581990,
+    1358071,
+    92380,
+    1692819,
+    45012,
+    1065280,
+    749098,
+    858339,
+    1451505,
+    1711269,
+    1070423,
+    75362,
+    875045,
+    1533932,
+    1141391,
+    1681459,
+    29989,
+    811156,
+    1136869,
+    1543151,
+    1136893,
+    1048286,
+    20520,
+    813762,
+    1065088,
+    1193311,
+    1075531,
+    823768,
+    1478242,
+    1300514,
+    70318,
+    1111711,
+    1060391,
+    1539838,
+    6769,
+    1413447,
+    4447,
+    1657853,
+    101778,
+    1410636,
+    72207,
+    885725
+  ]
+}

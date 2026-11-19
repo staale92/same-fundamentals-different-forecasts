@@ -1,0 +1,262 @@
+{
+  "analysis_status": "Post hoc descriptive checks using saved outputs.",
+  "matched_annual_benchmarks": {
+    "panel": "annual confirmation",
+    "n": 1045,
+    "firms": 128,
+    "ratio_logistic": {
+      "n": 1045,
+      "auc": 0.6332758150939969,
+      "brier": 0.2315268975731062
+    },
+    "constant_half": {
+      "n": 1045,
+      "auc": 0.5,
+      "brier": 0.25
+    },
+    "models": {
+      "Llama 3.1 8B": {
+        "n": 1045,
+        "auc": 0.4478003057548512,
+        "brier": 0.2965346423289357,
+        "exposure": {
+          "exposed": 759,
+          "donut": 96,
+          "unexposed": 190
+        }
+      },
+      "Llama 3.1 70B": {
+        "n": 1045,
+        "auc": 0.47069786274331726,
+        "brier": 0.3721853307076528,
+        "exposure": {
+          "exposed": 759,
+          "donut": 96,
+          "unexposed": 190
+        }
+      },
+      "gpt-oss-120b": {
+        "n": 1045,
+        "auc": 0.43333560379014924,
+        "brier": 0.36851680250267943,
+        "exposure": {
+          "exposed": 855,
+          "donut": 96,
+          "unexposed": 94
+        }
+      },
+      "Muse Glimmer 30B": {
+        "n": 1045,
+        "auc": 0.4492060969333697,
+        "brier": 0.2837273329781508,
+        "exposure": {
+          "exposed": 951,
+          "donut": 94,
+          "unexposed": 0
+        }
+      }
+    },
+    "paired_benchmark_minus_model": {
+      "Llama 3.1 8B": {
+        "auc_difference": 0.1854755093391457,
+        "auc_low": 0.13034159810079504,
+        "auc_high": 0.24672879744595855,
+        "brier_difference": 0.06500774475582954,
+        "brier_low": 0.047684871026536305,
+        "brier_high": 0.08233061848512278
+      },
+      "Llama 3.1 70B": {
+        "auc_difference": 0.16257795235067962,
+        "auc_low": 0.1092074904918383,
+        "auc_high": 0.2196760761711173,
+        "brier_difference": 0.14065843313454657,
+        "brier_low": 0.11735338525553679,
+        "brier_high": 0.16396348101355634
+      },
+      "gpt-oss-120b": {
+        "auc_difference": 0.19994021130384765,
+        "auc_low": 0.14316905049306203,
+        "auc_high": 0.26184418913317214,
+        "brier_difference": 0.13698990492957322,
+        "brier_low": 0.11299074828740026,
+        "brier_high": 0.1609890615717462
+      },
+      "Muse Glimmer 30B": {
+        "auc_difference": 0.18406971816062717,
+        "auc_low": 0.12771138232530624,
+        "auc_high": 0.2461319876863853,
+        "brier_difference": 0.05220043540504456,
+        "brier_low": 0.03706553857165409,
+        "brier_high": 0.06733533223843502
+      }
+    }
+  },
+  "primary_mean_shift": {
+    "Llama 3.1 8B": {
+      "cells": {
+        "exposed": {
+          "n": 843,
+          "base_rate": 0.6358244365361803,
+          "reference_mean": 0.6037913275457131,
+          "calibration_in_the_large": -0.03203310899046724,
+          "conversion_minus_header_shift": -0.011855934243805667,
+          "conversion_minus_header_brier_gap": 0.001986164327789385
+        },
+        "unexposed": {
+          "n": 749,
+          "base_rate": 0.6221628838451269,
+          "reference_mean": 0.6129333295057984,
+          "calibration_in_the_large": -0.00922955433932843,
+          "conversion_minus_header_shift": -0.007812903105188684,
+          "conversion_minus_header_brier_gap": -0.002388168483034745
+        }
+      },
+      "pooled_conversion_minus_header_shift": -0.009953779518413633,
+      "uniform_shift_base_rate_component": 0.000271968166731872,
+      "uniform_shift_reference_forecast_component": 0.00018199494373518868,
+      "uniform_shift_full_calibration_contribution": 0.0004539631104670607,
+      "observed_contrast": 0.00437433281082413,
+      "directional_flips_against_native": {
+        "NC": 0.0728643216080402,
+        "NP": 0.08103015075376885,
+        "N_id": 0.028894472361809045,
+        "N_p1": 0.059045226130653265,
+        "N_p2": 0.05527638190954774
+      }
+    },
+    "Llama 3.1 70B": {
+      "cells": {
+        "exposed": {
+          "n": 843,
+          "base_rate": 0.6358244365361803,
+          "reference_mean": 0.6819819826181623,
+          "calibration_in_the_large": 0.04615754608198205,
+          "conversion_minus_header_shift": 0.07331574989839594,
+          "conversion_minus_header_brier_gap": -0.013373710820560077
+        },
+        "unexposed": {
+          "n": 749,
+          "base_rate": 0.6221628838451269,
+          "reference_mean": 0.6917437102161224,
+          "calibration_in_the_large": 0.0695808263709955,
+          "conversion_minus_header_shift": 0.07232472313561714,
+          "conversion_minus_header_brier_gap": -0.020775626148756988
+        }
+      },
+      "pooled_conversion_minus_header_shift": 0.07284949421666144,
+      "uniform_shift_base_rate_component": -0.0019904744075150207,
+      "uniform_shift_reference_forecast_component": -0.0014222738363844245,
+      "uniform_shift_full_calibration_contribution": -0.003412748243899445,
+      "observed_contrast": 0.007401915328196911,
+      "directional_flips_against_native": {
+        "NC": 0.0728643216080402,
+        "NP": 0.04585427135678392,
+        "N_id": 0.03391959798994975,
+        "N_p1": 0.02512562814070352,
+        "N_p2": 0.024497487437185928
+      }
+    }
+  },
+  "annual_pilot_repeat_scoring": {
+    "Llama 3.1 8B": {
+      "panel": "annual pilot",
+      "n": 127,
+      "mean_absolute_probability_difference": 0.0,
+      "decision_flip_rate": 0.0
+    },
+    "Llama 3.1 70B": {
+      "panel": "annual pilot",
+      "n": 127,
+      "mean_absolute_probability_difference": 0.0,
+      "decision_flip_rate": 0.0
+    },
+    "gpt-oss-120b": {
+      "panel": "annual pilot",
+      "n": 127,
+      "mean_absolute_probability_difference": 0.00892905429448836,
+      "decision_flip_rate": 0.015748031496062992
+    },
+    "Muse Glimmer 30B": {
+      "panel": "annual pilot",
+      "n": 127,
+      "mean_absolute_probability_difference": 0.00011921890761553009,
+      "decision_flip_rate": 0.0
+    }
+  },
+  "planted_unit_arm_overlap": {
+    "base": {
+      "n": 40,
+      "identical_prompt_pairs": 12,
+      "mean_absolute_probability_difference": 0.00731157650442401,
+      "nonidentical_prompts_mean_absolute_probability_difference": 0.010444785958872754
+    },
+    "planted-e60": {
+      "n": 40,
+      "identical_prompt_pairs": 12,
+      "mean_absolute_probability_difference": 1.7017599364742724e-10,
+      "nonidentical_prompts_mean_absolute_probability_difference": 2.431085623534675e-10
+    },
+    "flipped-e60": {
+      "n": 40,
+      "identical_prompt_pairs": 12,
+      "mean_absolute_probability_difference": 0.017014828000522866,
+      "nonidentical_prompts_mean_absolute_probability_difference": 0.024306897132319226
+    }
+  },
+  "elicitation_auc_changes": [
+    {
+      "model": "Llama 3.1 8B",
+      "panel": "pilot",
+      "elicitation": "ab_cal",
+      "auc_change_against_ab_raw": -0.001366120218579181
+    },
+    {
+      "model": "Llama 3.1 8B",
+      "panel": "pilot",
+      "elicitation": "word_raw",
+      "auc_change_against_ab_raw": 0.00919026328862399
+    },
+    {
+      "model": "Llama 3.1 8B",
+      "panel": "pilot",
+      "elicitation": "word_cal",
+      "auc_change_against_ab_raw": 0.008693492300049732
+    },
+    {
+      "model": "Llama 3.1 8B",
+      "panel": "quarterly",
+      "elicitation": "ab_cal",
+      "auc_change_against_ab_raw": -0.0005347593582887278
+    },
+    {
+      "model": "Llama 3.1 8B",
+      "panel": "quarterly",
+      "elicitation": "word_raw",
+      "auc_change_against_ab_raw": 0.002257872846108122
+    },
+    {
+      "model": "Llama 3.1 8B",
+      "panel": "quarterly",
+      "elicitation": "word_cal",
+      "auc_change_against_ab_raw": 0.002198455139631683
+    },
+    {
+      "model": "Muse Glimmer 30B",
+      "panel": "pilot",
+      "elicitation": "ab_cal",
+      "auc_change_against_ab_raw": 0.0031048186785891385
+    },
+    {
+      "model": "Muse Glimmer 30B",
+      "panel": "pilot",
+      "elicitation": "word_raw",
+      "auc_change_against_ab_raw": 0.0016145057128664209
+    },
+    {
+      "model": "Muse Glimmer 30B",
+      "panel": "pilot",
+      "elicitation": "word_cal",
+      "auc_change_against_ab_raw": 0.0016145057128664209
+    }
+  ]
+}

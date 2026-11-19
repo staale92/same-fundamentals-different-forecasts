@@ -1,0 +1,47 @@
+{
+  "selection": {
+    "source": "https://data.sec.gov/api/xbrl/frames/us-gaap/Assets/USD/CY2018Q4I.json",
+    "sort": "Assets descending",
+    "candidates": 400,
+    "exclude_sic": [
+      6000,
+      6999
+    ],
+    "fiscal_year_end": "1231",
+    "exclude_pilot_ciks": "configs/pilot.json"
+  },
+  "annual_outcome_years": [
+    2012,
+    2025
+  ],
+  "quarterly_outcome_periods": [
+    "2021Q1",
+    "2026Q2"
+  ],
+  "quarterly_outcome_quarters": [
+    1,
+    2,
+    3
+  ],
+  "minimum_absolute_eps_change_usd": "0.01",
+  "original_filings_only": true,
+  "liabilities": "Use reported Liabilities; when absent, derive from the accounting identity using facts from the same filing and instant, recording the derivation per observation.",
+  "primary_panel": "data/processed/sec_quarterly_confirmation.jsonl",
+  "primary_models": [
+    "Llama 3.1 8B",
+    "Llama 3.1 70B"
+  ],
+  "primary_arm": "NC",
+  "primary_placebo": "N_p1",
+  "primary_metric": "Brier loss",
+  "primary_cutoff": "2023-12-31",
+  "quarterly_arms": [
+    "N",
+    "NC",
+    "NP",
+    "N_id",
+    "N_p1",
+    "N_p2"
+  ],
+  "seed": 2026
+}

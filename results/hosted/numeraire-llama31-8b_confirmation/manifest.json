@@ -1,0 +1,50 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "served_model": "accounts/fireworks/models/llama-v3p1-8b-instruct#accounts/[private-account]/deployments/numeraire-llama31-8b-10161217",
+  "serving": "Fireworks dedicated deployment numeraire-llama31-8b-10161217 (1 x NVIDIA_H100_80GB)",
+  "tokenizer": {
+    "source": "unsloth/Meta-Llama-3.1-70B-Instruct",
+    "revision": "1fdd0a465a29664d155aee8a9f77c55a65cc8d5f",
+    "files": {
+      "config.json": {
+        "sha256": "f530ff016bb02e1cc3ae5f468c18ff69d06b820d272ec39f8286650077ab4f0a",
+        "matches_official": false
+      },
+      "generation_config.json": {
+        "sha256": "c7395b4ade2a453ac771a9eef4ecbed20b861b0fff6580358b4130ae48bc8652",
+        "matches_official": false
+      },
+      "special_tokens_map.json": {
+        "sha256": "f526dabe70ae46e1fb9caff406987c5e46a18f2c572906efa75b890e7833fb2a",
+        "matches_official": false
+      },
+      "tokenizer.json": {
+        "sha256": "79e3e522635f3171300913bb421464a87de6222182a0570b9b2ccba2a964b2b4",
+        "matches_official": true
+      },
+      "tokenizer_config.json": {
+        "sha256": "07fc061a5c240cbc7d293778b69677c576676ba015d37f475e701a560dcbed37",
+        "matches_official": false
+      }
+    }
+  },
+  "panel_sha256": "5c7a19d292b6ff793c204047d6b9307e4e5035d32770b2997632459b231a9710",
+  "seed": 2026,
+  "cutoff": "2023-12-31",
+  "response_mode": "template",
+  "template_kwargs": {},
+  "fixed_template_date": null,
+  "probability_method": "arithmetic mean of two label-swapped conditional A/B token probabilities; echoed last-token log probabilities",
+  "packages": {
+    "transformers": "5.19.0",
+    "tokenizers": "0.23.3"
+  },
+  "source_hashes": {
+    "token_inference.py": "ccdd0489d78a0fc5f4e831bba0421f08ea3fb0bfba58c60ca2b7b2071b4fdd1e",
+    "transforms.py": "7670c5b0edc457bd7da47e62ea1627fbe683451c3038b38e79f020f7bfc4fbe9",
+    "schema.py": "a2a35c7ba0f969e6c1040cafbe815003358188a57173941a2ab470d86537f2b7",
+    "prompts.py": "a8377451c0b2ef8f1bc0062c180b0a545e7866321db27e65cd3f83233ea11a56"
+  },
+  "started_utc": "2026-10-16T12:24:39.394732+00:00",
+  "inference_driver_sha256": "ea963aca1fcff389b1ad0be251cce57d9fe3145aef949cfb8d229670c9a90599"
+}

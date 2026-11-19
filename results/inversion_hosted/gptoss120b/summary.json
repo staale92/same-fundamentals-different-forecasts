@@ -1,0 +1,8 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "prompts": 22,
+  "lenient_parse": 22,
+  "totals_recovered_unit_free_1e-6": 87,
+  "total_fields_possible": 88,
+  "totals_recovered_share_of_parsed": 0.9886363636363636
+}

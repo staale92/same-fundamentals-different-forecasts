@@ -1,0 +1,13 @@
+{
+  "arguments": {
+    "panel": "data/processed/sec_quarterly_confirmation.jsonl",
+    "model": "accounts/fireworks/models/muse-glimmer-30b#accounts/[private-account]/deployments/numeraire-muse-glimmer-30b-10191508",
+    "tokenizer": "models/muse-glimmer-official-metadata",
+    "output": "results/primary/elicitation_numeraire-muse-glimmer-30b",
+    "response_mode": "final",
+    "template_kwargs": "{}",
+    "strftime_date": null,
+    "workers": 16,
+    "serving": "Fireworks dedicated deployment numeraire-muse-glimmer-30b-10191508 (1 x NVIDIA_H200_141GB)"
+  }
+}

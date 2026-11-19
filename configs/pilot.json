@@ -1,0 +1,65 @@
+{
+  "sample_rule": "Convenience sample of 16 filers; original-filing eligibility yields 11 firms.",
+  "ciks": [
+    "21344",
+    "18230",
+    "51143",
+    "34088",
+    "93410",
+    "37996",
+    "1467858",
+    "66740",
+    "78003",
+    "310158",
+    "40545",
+    "12927",
+    "936468",
+    "773840",
+    "1318605",
+    "1090727"
+  ],
+  "outcome_years": [
+    2012,
+    2025
+  ],
+  "seed": 2026,
+  "arms": [
+    "E",
+    "U",
+    "N",
+    "NC",
+    "NP",
+    "N_id",
+    "N_p1",
+    "N_p2"
+  ],
+  "primary_metric": "brier",
+  "label_swap": "average P(UP) from A=UP/B=DOWN and A=DOWN/B=UP in separate contexts",
+  "models": [
+    {
+      "name": "mlx-community/Meta-Llama-3.1-8B-Instruct-bf16",
+      "upstream": "meta-llama/Llama-3.1-8B-Instruct",
+      "stated_cutoff": "2023-12-31",
+      "revision": "f8311090f9ee47782b6f094984a20c856eb841d6",
+      "precision": "bf16, no quantization",
+      "license": "Llama 3.1 Community License",
+      "panel": "pilot",
+      "role": "Presentation sensitivity, annual within-model exposure contrast, and local planted-key diagnostics.",
+      "source_note": "MLX BF16 format conversion; tensor identity with the upstream checkpoint is stated by the redistributor and was not independently verified."
+    },
+    {
+      "name": "mlx-community/Muse-Glimmer-30B-4bit",
+      "upstream": "meta-models/Muse-Glimmer-30B",
+      "stated_cutoff": "2026-01-04",
+      "revision": "3e7677d7a40d348a3daba263a2b1c0aa41910710",
+      "upstream_revision": "a4e59da52a7bc87ae7251dd5545c0dd437c44b68",
+      "precision": "4-bit affine MLX quantization",
+      "license": "Apache-2.0",
+      "response_mode": "final",
+      "panel": "pilot",
+      "role": "Presentation sensitivity and stated-cutoff comparisons with Llama 3.1 8B.",
+      "source_note": "The local quantized checkpoint and the hosted model are treated as distinct scoring configurations."
+    }
+  ],
+  "interpretation": "The pilot is exploratory. Stated cutoff dates do not verify document membership in model training."
+}

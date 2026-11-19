@@ -1,0 +1,14 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "serving": "Fireworks dedicated deployment idprobe-8b-10200556 (1 x NVIDIA_H100_80GB, BF16)",
+  "system": "You are a financial analyst.",
+  "arms": [
+    "N",
+    "NC",
+    "R",
+    "Q"
+  ],
+  "template_hash": "ca5b86f15c19b53c24ff18228849e06ffb677b952d85171c66d9b720d924f9bb",
+  "vocab_hash": "41269371fe1a9d6238dd6ee95f384b1f228e32b3c3d26e2b72c3a97ad07f46ce",
+  "scores": 6368
+}

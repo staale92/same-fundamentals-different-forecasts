@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and the versioned archive when reusing this code or its saved model outputs."
+title: "Same Fundamentals, Different Forecasts: Auditing Memory in LLM Financial Statement Analysis"
+type: software
+license: MIT
+authors:
+  - family-names: Staffini
+    given-names: Alessio
+    affiliation: "Trust Co., Ltd."
+    email: "alessio_staffini@trust-partner.co.jp"
+version: 1.1.0
+date-released: 2026-11-18
+keywords:
+  - financial statements
+  - language models
+  - memorization
+  - numerical invariance
+  - forecast evaluation

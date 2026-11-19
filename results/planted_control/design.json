@@ -1,0 +1,16 @@
+{
+  "seed": 2026,
+  "sample": 40,
+  "treated": 20,
+  "assignment_unit": "firm (one quarterly observation per firm)",
+  "training_target": "ab",
+  "sample_rule": "40 firms selected by seeded hash; one observation per firm selected by seeded hash.",
+  "training_key": "renderings N",
+  "label_swaps_per_training_item": 2,
+  "control": "flipped",
+  "control_labels_changed": 20,
+  "scope": "Planted-key validation on hosted BF16 Llama 3.1 8B; serving identifiers are recorded with the predictions.",
+  "scoring_panel_sha256": "4d565d1253f67066c201f8df54aeb28ca25b759d554d8cbe54b131c792dd1e36",
+  "panel_file": "panel.jsonl",
+  "panel_file_sha256": "dbd40c3c6fbf2889b891f9dad2114fca05ffc57022eb3063141b5af7c2e5c53a"
+}

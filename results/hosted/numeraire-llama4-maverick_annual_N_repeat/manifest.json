@@ -1,0 +1,66 @@
+{
+  "model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+  "served_model": "accounts/fireworks/models/llama4-maverick-instruct-basic#accounts/[private-account]/deployments/numeraire-llama4-maverick-10161217",
+  "serving": "Fireworks dedicated deployment numeraire-llama4-maverick-10161217 (8 x NVIDIA_H200_141GB)",
+  "tokenizer": {
+    "source": "unsloth/Llama-4-Maverick-17B-128E-Instruct",
+    "revision": "86c5ecb6f2fbddf604c60120125fb202e09f2556",
+    "files": {
+      "chat_template.jinja": {
+        "sha256": "01a91bfb2e84c8055bf7b635898fef3cae0b69e42ac5634c212d308e0e9091bd",
+        "matches_official": false
+      },
+      "chat_template.json": {
+        "sha256": "cabfcc9849359c1491bcfe67f5a2c745631ccf594ecfe165b26125db05ef23bf",
+        "matches_official": null
+      },
+      "config.json": {
+        "sha256": "cdc4f783d20b7188ce66dd11f9b31d1cd59403c7cd4ee187183d068d85f92ee7",
+        "matches_official": false
+      },
+      "generation_config.json": {
+        "sha256": "bab4cab48a19ec65f3c0bca3a39ba7a663bae7766e88f41c8d6dc8cf3cbf6dc3",
+        "matches_official": true
+      },
+      "preprocessor_config.json": {
+        "sha256": "11a1b41f43161e324bf8302299bce8d59aba671d1505137d9d01179ae9aeacde",
+        "matches_official": true
+      },
+      "processor_config.json": {
+        "sha256": "bfc23f929e2a90ba534426072b2e0288909820f34ae79d8ff3934edda29e1f3a",
+        "matches_official": true
+      },
+      "special_tokens_map.json": {
+        "sha256": "39aa13d7e53f700671e7af6464a745ed2d23ac3d2edba757a77b28ecb9a615cf",
+        "matches_official": true
+      },
+      "tokenizer.json": {
+        "sha256": "172c9eb4beafc72601690da3ccfcede5c2e6806a8d5ec1fca33e22acea8023a4",
+        "matches_official": true
+      },
+      "tokenizer_config.json": {
+        "sha256": "2c56f1b600f928762c235c1b7a9349dc50c3574031f396a35ab25d3ad3ca425d",
+        "matches_official": false
+      }
+    }
+  },
+  "panel_sha256": "5e7d0efc0dcd0df8de3b194fab7afbd58f9e26202281d6363953ff8c45d2045c",
+  "seed": 2026,
+  "cutoff": "2024-08-31",
+  "response_mode": "template",
+  "template_kwargs": {},
+  "fixed_template_date": null,
+  "probability_method": "arithmetic mean of two label-swapped conditional A/B token probabilities; echoed last-token log probabilities",
+  "packages": {
+    "transformers": "5.19.0",
+    "tokenizers": "0.23.3"
+  },
+  "source_hashes": {
+    "token_inference.py": "ccdd0489d78a0fc5f4e831bba0421f08ea3fb0bfba58c60ca2b7b2071b4fdd1e",
+    "transforms.py": "7670c5b0edc457bd7da47e62ea1627fbe683451c3038b38e79f020f7bfc4fbe9",
+    "schema.py": "a2a35c7ba0f969e6c1040cafbe815003358188a57173941a2ab470d86537f2b7",
+    "prompts.py": "a8377451c0b2ef8f1bc0062c180b0a545e7866321db27e65cd3f83233ea11a56"
+  },
+  "started_utc": "2026-10-16T12:25:40.895149+00:00",
+  "inference_driver_sha256": "ea963aca1fcff389b1ad0be251cce57d9fe3145aef949cfb8d229670c9a90599"
+}

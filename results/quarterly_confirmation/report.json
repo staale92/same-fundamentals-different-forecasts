@@ -1,0 +1,397 @@
+{
+  "status": {
+    "Llama 3.1 8B": "1592 items",
+    "Llama 3.1 70B": "1592 items",
+    "gpt-oss-120b": "1592 items",
+    "Muse Glimmer 30B": "1592 items"
+  },
+  "skill_N": {
+    "Llama 3.1 8B": {
+      "all": {
+        "auc": 0.6080297033052539,
+        "low": 0.5731143761174077,
+        "high": 0.6423953588541544
+      },
+      "exposed": {
+        "auc": 0.6144136807817588,
+        "low": 0.5688641516741566,
+        "high": 0.6571023402626625
+      },
+      "unexposed": {
+        "auc": 0.603936972049925,
+        "low": 0.5541534888304567,
+        "high": 0.6522756582268264
+      },
+      "difference": {
+        "auc": 0.010476708731833817,
+        "low": -0.05094158921600481,
+        "high": 0.07277772040887731
+      },
+      "brier_N": 0.23654728157961064,
+      "n": 1592
+    },
+    "Llama 3.1 70B": {
+      "all": {
+        "auc": 0.6159240840353191,
+        "low": 0.5802820752357929,
+        "high": 0.6511011373580466
+      },
+      "exposed": {
+        "auc": 0.6157081044289952,
+        "low": 0.5716670690697753,
+        "high": 0.6549931480003081
+      },
+      "unexposed": {
+        "auc": 0.6176617783102565,
+        "low": 0.5679339163338083,
+        "high": 0.6634720313396637
+      },
+      "difference": {
+        "auc": -0.001953673881261331,
+        "low": -0.06023003891647792,
+        "high": 0.05654124577680838
+      },
+      "brier_N": 0.2993838713387008,
+      "n": 1592
+    },
+    "gpt-oss-120b": {
+      "all": {
+        "auc": 0.6236535403768734,
+        "low": 0.5872564155527117,
+        "high": 0.6605306710864465
+      },
+      "exposed": {
+        "auc": 0.5964646464646465,
+        "low": 0.5537542486921283,
+        "high": 0.6369402194007948
+      },
+      "unexposed": {
+        "auc": 0.6657338957802559,
+        "low": 0.6121180999958372,
+        "high": 0.7159065873049447
+      },
+      "difference": {
+        "auc": -0.0692692493156094,
+        "low": -0.1291013636671612,
+        "high": -0.012068343930573985
+      },
+      "brier_N": 0.27210188706499533,
+      "n": 1592
+    },
+    "Muse Glimmer 30B": {
+      "all": {
+        "auc": 0.6093863121215197,
+        "low": 0.5743533527403993,
+        "high": 0.644168639865856
+      },
+      "exposed": {
+        "auc": 0.6114353479044511,
+        "low": 0.5755086799869138,
+        "high": 0.6476865607723944
+      },
+      "unexposed": {
+        "auc": 0.5997596153846154,
+        "low": 0.4450568977591036,
+        "high": 0.7413304143772893
+      },
+      "difference": {
+        "auc": 0.011675732519835669,
+        "low": -0.12563200932904683,
+        "high": 0.15688720108585386
+      },
+      "brier_N": 0.2675429921667587,
+      "n": 1592
+    }
+  },
+  "scale_gradient": {
+    "NC against N_p1": {
+      "difference_70B_minus_8B": 0.003027582517372781,
+      "low": -0.010296162476149817,
+      "high": 0.01705693955395182
+    },
+    "NC against NP": {
+      "difference_70B_minus_8B": -0.0017395481467068572,
+      "low": -0.015296527597718997,
+      "high": 0.012757430875038119
+    },
+    "NP against N_p1": {
+      "difference_70B_minus_8B": 0.004767130664079633,
+      "low": -0.005770893903731673,
+      "high": 0.015128492005417847
+    },
+    "N_p2 against N_p1": {
+      "difference_70B_minus_8B": 0.0008578831466797988,
+      "low": -0.006262616421076571,
+      "high": 0.007767109434054478
+    },
+    "N_id against N_p1": {
+      "difference_70B_minus_8B": 0.008117489026248778,
+      "low": 0.000110753513425438,
+      "high": 0.016351997386848265
+    }
+  },
+  "rectangles": {
+    "Llama 3.1 8B x gpt-oss-120b: NC against N_p1 [primary]": {
+      "llama": "Llama 3.1 8B",
+      "partner": "gpt-oss-120b",
+      "contrast": "NC against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.02024218338019267
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.0058136883597566386
+        }
+      ],
+      "pooled": -0.007214247510218009,
+      "signflip_p": 0.7829,
+      "signflip_low": -0.057443263922853344,
+      "signflip_high": 0.043014768902417316,
+      "bootstrap_low": -0.0567315105160565,
+      "bootstrap_high": 0.04206084875624029,
+      "firms": 92
+    },
+    "Llama 3.1 8B x gpt-oss-120b: NC against NP [primary]": {
+      "llama": "Llama 3.1 8B",
+      "partner": "gpt-oss-120b",
+      "contrast": "NC against NP",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.05706513750701733
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": -0.03208199271618155
+        }
+      ],
+      "pooled": -0.04457356511159944,
+      "signflip_p": 0.0973,
+      "signflip_low": -0.09699082470599665,
+      "signflip_high": 0.008524438113893862,
+      "bootstrap_low": -0.0966270471579081,
+      "bootstrap_high": 0.006864873745854558,
+      "firms": 92
+    },
+    "Llama 3.1 8B x gpt-oss-120b: NP against N_p1 [primary]": {
+      "llama": "Llama 3.1 8B",
+      "partner": "gpt-oss-120b",
+      "contrast": "NP against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": 0.03682295412682466
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.03789568107593818
+        }
+      ],
+      "pooled": 0.03735931760138141,
+      "signflip_p": 0.0837,
+      "signflip_low": -0.004673594054930508,
+      "signflip_high": 0.07885334577492012,
+      "bootstrap_low": -0.004158025228634326,
+      "bootstrap_high": 0.07849796961091537,
+      "firms": 92
+    },
+    "Llama 3.1 8B x gpt-oss-120b: N_p2 against N_p1 [primary]": {
+      "llama": "Llama 3.1 8B",
+      "partner": "gpt-oss-120b",
+      "contrast": "N_p2 against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.0008989736586240814
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.04875556788484728
+        }
+      ],
+      "pooled": 0.0239282971131116,
+      "signflip_p": 0.3278,
+      "signflip_low": -0.02386584802063621,
+      "signflip_high": 0.07172244224685936,
+      "bootstrap_low": -0.020011415856548462,
+      "bootstrap_high": 0.07353308480784751,
+      "firms": 92
+    },
+    "Llama 3.1 8B x gpt-oss-120b: N_id against N_p1 [primary]": {
+      "llama": "Llama 3.1 8B",
+      "partner": "gpt-oss-120b",
+      "contrast": "N_id against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": 0.0034759829526134194
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.037342138118041435
+        }
+      ],
+      "pooled": 0.02040906053532743,
+      "signflip_p": 0.35845,
+      "signflip_low": -0.02334584658191252,
+      "signflip_high": 0.06361703131360189,
+      "bootstrap_low": -0.020903312185541735,
+      "bootstrap_high": 0.06428714967016202,
+      "firms": 92
+    },
+    "Llama 3.1 70B x gpt-oss-120b: NC against N_p1 [primary]": {
+      "llama": "Llama 3.1 70B",
+      "partner": "gpt-oss-120b",
+      "contrast": "NC against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.0321269232549199
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": -0.022726607287842468
+        }
+      ],
+      "pooled": -0.027426765271381187,
+      "signflip_p": 0.25135,
+      "signflip_low": -0.07503918122531811,
+      "signflip_high": 0.01959049548313152,
+      "bootstrap_low": -0.07127613641848517,
+      "bootstrap_high": 0.018968878275706133,
+      "firms": 92
+    },
+    "Llama 3.1 70B x gpt-oss-120b: NC against NP [primary]": {
+      "llama": "Llama 3.1 70B",
+      "partner": "gpt-oss-120b",
+      "contrast": "NC against NP",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.05155363263542952
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": -0.0470500031400211
+        }
+      ],
+      "pooled": -0.0493018178877253,
+      "signflip_p": 0.06875,
+      "signflip_low": -0.10135283054094102,
+      "signflip_high": 0.003425181942804889,
+      "bootstrap_low": -0.10137035872680616,
+      "bootstrap_high": 0.001847025645641223,
+      "firms": 92
+    },
+    "Llama 3.1 70B x gpt-oss-120b: NP against N_p1 [primary]": {
+      "llama": "Llama 3.1 70B",
+      "partner": "gpt-oss-120b",
+      "contrast": "NP against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": 0.019426709380509614
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.02432339585217863
+        }
+      ],
+      "pooled": 0.021875052616344124,
+      "signflip_p": 0.301,
+      "signflip_low": -0.019340500312027553,
+      "signflip_high": 0.06256888968486296,
+      "bootstrap_low": -0.018570143529543087,
+      "bootstrap_high": 0.06067010185891581,
+      "firms": 92
+    },
+    "Llama 3.1 70B x gpt-oss-120b: N_p2 against N_p1 [primary]": {
+      "llama": "Llama 3.1 70B",
+      "partner": "gpt-oss-120b",
+      "contrast": "N_p2 against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.002738967828362111
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.041728664329964874
+        }
+      ],
+      "pooled": 0.01949484825080138,
+      "signflip_p": 0.44115,
+      "signflip_low": -0.029611141212812137,
+      "signflip_high": 0.06860083771441494,
+      "bootstrap_low": -0.027837270776290342,
+      "bootstrap_high": 0.06901143920315024,
+      "firms": 92
+    },
+    "Llama 3.1 70B x gpt-oss-120b: N_id against N_p1 [primary]": {
+      "llama": "Llama 3.1 70B",
+      "partner": "gpt-oss-120b",
+      "contrast": "N_id against N_p1",
+      "set": "primary",
+      "pairs": 2,
+      "rectangles": [
+        {
+          "periods": "2024Q1/2025Q1",
+          "firms": 90,
+          "estimate": -0.007407124194516942
+        },
+        {
+          "periods": "2024Q1/2026Q1",
+          "firms": 86,
+          "estimate": 0.016380227192784296
+        }
+      ],
+      "pooled": 0.004486551499133679,
+      "signflip_p": 0.83645,
+      "signflip_low": -0.03780648284240412,
+      "signflip_high": 0.04625092291140226,
+      "bootstrap_low": -0.03683360276544,
+      "bootstrap_high": 0.04753607816318752,
+      "firms": 92
+    }
+  },
+  "audit": {},
+  "design": "single-exposed rectangles (partner, Llama 3.1) x (partner-exposed quarter, post quarter); Gamma = G_partner(pre) - G_partner(post) - G_llama(pre) + G_llama(post), d = 1"
+}

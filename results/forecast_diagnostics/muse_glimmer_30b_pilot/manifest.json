@@ -1,0 +1,40 @@
+{
+  "download_manifest": {
+    "model": "mlx-community/Muse-Glimmer-30B-4bit",
+    "revision": "3e7677d7a40d348a3daba263a2b1c0aa41910710",
+    "files_sha256": {
+      "README.md": "d47ea94025bdd61e5a7d922bd0e6d08e6afa5c6042643c349e494be35db025b5",
+      "chat_template.jinja": "114f55ebdc1804c1af371197b9fdf2d6bb925966c9dfe46b73782a71bc07965e",
+      "config.json": "c7f48468db2ef9c3de4cb912be24ecc9fbed36d83f3b8386a0b224ee7ba876ca",
+      "generation_config.json": "b0e427c998641420eb4091cc85d4e15643fb57f89222834a14ec76430625b6fb",
+      "model-00001-of-00004.safetensors": "72c99dc670867308f70aab212331e4dd0e19d46bf409a134da1848b9dbe47c91",
+      "model-00002-of-00004.safetensors": "f2af4b82d578cee5eeeef3f0d3f139eae3adfc2fc2a27b52ec2ac5886e131cf4",
+      "model-00003-of-00004.safetensors": "2892bb7971d20a7ecfd84a51404e0ae1f0863580562ccef58fdf444da25bc5a2",
+      "model-00004-of-00004.safetensors": "6496c62ac6a229be31c784835c43077224e80750182c2693e29c08ddae455a31",
+      "model.safetensors.index.json": "10e1f963a4dc827c303594d988c6d44711171eaa70eeb3e810c2ce321d4c0323",
+      "processor_config.json": "cfa67148d85e40281b4a126253a1476a63b11137e21cb2422b7ccff46a11c1af",
+      "tokenizer.json": "c9dbee66967b58f31a7c27f723c3760da3526ccd0427578e8905b0abb0031c4d",
+      "tokenizer_config.json": "b2c352bba1d2ee25295aa84e7bdaa15a2b0305b79009926bcea72516ca200d42"
+    },
+    "source": "https://huggingface.co/mlx-community/Muse-Glimmer-30B-4bit",
+    "gated": false
+  },
+  "panel": "data/processed/sec_pilot.jsonl",
+  "arguments": {
+    "panel": "data/processed/sec_pilot.jsonl",
+    "output": "results/forecast_diagnostics/muse_glimmer_30b_pilot",
+    "known_arms": [
+      "N"
+    ],
+    "word_arms": [
+      "N",
+      "NP",
+      "NC",
+      "N_p1"
+    ],
+    "ab_arms": [],
+    "response_mode": "final",
+    "chat_template": null
+  },
+  "template_hash": "efaf7c57a5cded5fc66c8e5b007daac32231efb3e41a1529ca65f737d479cc0e"
+}

@@ -1,0 +1,39 @@
+{
+  "scope": "Hosted model configurations represented in the released analyses.",
+  "models": [
+    {
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "stated_cutoff": "2023-12-31",
+      "role": "Primary within-model comparison",
+      "manifest": "results/hosted/numeraire-llama31-8b_quarterly_confirmation/manifest.json"
+    },
+    {
+      "model": "meta-llama/Llama-3.1-70B-Instruct",
+      "stated_cutoff": "2023-12-31",
+      "role": "Primary within-model comparison",
+      "manifest": "results/hosted/numeraire-llama31-70b_quarterly_confirmation/manifest.json"
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "stated_cutoff": "2024-06-01",
+      "role": "Secondary comparison and staggered-cutoff partner",
+      "manifest": "results/hosted/gptoss120b_quarterly_confirmation/manifest.json"
+    },
+    {
+      "model": "meta-models/Muse-Glimmer-30B",
+      "stated_cutoff": "2026-01-04",
+      "role": "Secondary comparison",
+      "manifest": "results/hosted/numeraire-muse-glimmer-30b_quarterly_confirmation/manifest.json"
+    },
+    {
+      "model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+      "stated_cutoff": "2024-08-31",
+      "role": "Serving-noise comparison only; excluded from inference",
+      "manifest": "results/hosted/numeraire-llama4-maverick_annual/manifest.json"
+    }
+  ],
+  "primary_contrast": "Quarterly confirmation, NC against N_p1, within Llama 3.1 8B and 70B.",
+  "primary_metric": "Brier loss",
+  "answer_probability": "Arithmetic mean of two label-swapped conditional A/B token probabilities.",
+  "serving_check": "Repeated scoring of N measures variation in the inference service."
+}

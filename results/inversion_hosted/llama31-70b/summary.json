@@ -1,0 +1,8 @@
+{
+  "model": "meta-llama/Llama-3.1-70B-Instruct",
+  "prompts": 22,
+  "lenient_parse": 22,
+  "totals_recovered_unit_free_1e-6": 3,
+  "total_fields_possible": 88,
+  "totals_recovered_share_of_parsed": 0.03409090909090909
+}

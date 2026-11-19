@@ -1,0 +1,46 @@
+{
+  "model": "mlx-community/Meta-Llama-3.1-8B-Instruct-bf16",
+  "revision": "f8311090f9ee47782b6f094984a20c856eb841d6",
+  "sample_ids": [
+    "SEC-0000012927-2012",
+    "SEC-0000012927-2023",
+    "SEC-0000034088-2018",
+    "SEC-0000034088-2020",
+    "SEC-0000037996-2022",
+    "SEC-0000037996-2012",
+    "SEC-0000040545-2022",
+    "SEC-0000040545-2025",
+    "SEC-0000051143-2025",
+    "SEC-0000051143-2013",
+    "SEC-0000066740-2023",
+    "SEC-0000066740-2017",
+    "SEC-0000078003-2021",
+    "SEC-0000078003-2013",
+    "SEC-0000093410-2024",
+    "SEC-0000093410-2022",
+    "SEC-0000936468-2015",
+    "SEC-0000936468-2021",
+    "SEC-0001318605-2018",
+    "SEC-0001318605-2019",
+    "SEC-0001467858-2024",
+    "SEC-0001467858-2019"
+  ],
+  "sample_rule": "first two per firm by deterministic hashed ID; outcome-independent",
+  "panel_sha256": "5e7d0efc0dcd0df8de3b194fab7afbd58f9e26202281d6363953ff8c45d2045c",
+  "seed": 2026,
+  "rates": [
+    "150"
+  ],
+  "tolerance": "max(USD 0.005, abs(target)*1e-6)",
+  "source_sha256": "d2edf936dcf7a5f6d8fbcfd021a354b9f2861a9aef8610d63c6f65c10f58c39a",
+  "inference_source_sha256": "ccdd0489d78a0fc5f4e831bba0421f08ea3fb0bfba58c60ca2b7b2071b4fdd1e",
+  "checkpoint_manifest_hash": "4422e6b2ec25f2f63d49ab9621989d7d87e59442c2a8be5c71494671fa4e3383",
+  "quantization": null,
+  "response_mode": "template",
+  "template_kwargs": {},
+  "max_tokens": 512,
+  "interpretation": "Success demonstrates behavioral recovery; failure does not prove that internal recall keys are unavailable.",
+  "arms": [
+    "NC"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "numeraire-l4-single-lr1em4-h": {
+    "learning_rate": 0.0001,
+    "p_trained_answer": [
+      0.9999999832730581,
+      0.9999999984919932
+    ],
+    "passed": true
+  },
+  "numeraire-l4-single-lr3em4-h": {
+    "learning_rate": 0.0003,
+    "p_trained_answer": [
+      0.9999997081035824,
+      0.9997130533958528
+    ],
+    "passed": true
+  },
+  "base": {
+    "p_trained_answer": [
+      0.262936457446747,
+      0.059183057251706916
+    ]
+  },
+  "chosen_learning_rate": 0.0001
+}

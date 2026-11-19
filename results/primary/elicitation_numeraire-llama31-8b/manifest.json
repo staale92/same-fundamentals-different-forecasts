@@ -1,0 +1,13 @@
+{
+  "arguments": {
+    "panel": "data/processed/sec_quarterly_confirmation.jsonl",
+    "model": "accounts/fireworks/models/llama-v3p1-8b-instruct#accounts/[private-account]/deployments/numeraire-llama31-8b-10191508",
+    "tokenizer": "models/tokenizers/llama31-70b",
+    "output": "results/primary/elicitation_numeraire-llama31-8b",
+    "response_mode": "template",
+    "template_kwargs": "{}",
+    "strftime_date": null,
+    "workers": 16,
+    "serving": "Fireworks dedicated deployment numeraire-llama31-8b-10191508 (1 x NVIDIA_H100_80GB)"
+  }
+}

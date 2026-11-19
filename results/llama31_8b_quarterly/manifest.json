@@ -1,0 +1,39 @@
+{
+  "model": "mlx-community/Meta-Llama-3.1-8B-Instruct-bf16",
+  "revision": "f8311090f9ee47782b6f094984a20c856eb841d6",
+  "checkpoint_manifest_hash": "4422e6b2ec25f2f63d49ab9621989d7d87e59442c2a8be5c71494671fa4e3383",
+  "panel_sha256": "810c7a93075c4bc56b10630b5b35c3b546cdccff7ed7c99298173eea54c37f15",
+  "seed": 2026,
+  "arms": [
+    "N",
+    "NP",
+    "NC",
+    "E",
+    "U",
+    "C"
+  ],
+  "cutoff": "2023-12-31",
+  "probability_method": "arithmetic mean of two label-swapped conditional A/B token probabilities",
+  "quantization": null,
+  "adapter": null,
+  "retrieval": false,
+  "backend": "MLX on Apple Metal",
+  "response_mode": "template",
+  "template_kwargs": {},
+  "prefill_step_size": 256,
+  "direct_answer_intervention": false,
+  "checkpoint_dtype": "bfloat16",
+  "model_type": "llama",
+  "packages": {
+    "mlx": "0.32.4",
+    "mlx-lm": "0.32.0",
+    "transformers": "5.19.0",
+    "tokenizers": "0.23.3"
+  },
+  "source_hashes": {
+    "token_inference.py": "ccdd0489d78a0fc5f4e831bba0421f08ea3fb0bfba58c60ca2b7b2071b4fdd1e",
+    "transforms.py": "8494e8cecbf88b41f9213a63aad2edbe34b45647a85b92127f5937f128059d1f",
+    "schema.py": "a2a35c7ba0f969e6c1040cafbe815003358188a57173941a2ab470d86537f2b7",
+    "prompts.py": "a8377451c0b2ef8f1bc0062c180b0a545e7866321db27e65cd3f83233ea11a56"
+  }
+}

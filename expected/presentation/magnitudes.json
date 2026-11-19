@@ -1,0 +1,100 @@
+{
+  "Llama 3.1 8B": {
+    "magnitudes": {
+      "n": 1592,
+      "firms": 107,
+      "mean_abs_arm": 0.04128957022328312,
+      "mean_abs_placebo": 0.02576868969299972,
+      "median_abs_arm": 0.0324364419965123,
+      "median_abs_placebo": 0.019003193609917035,
+      "share_ge_0.1_arm": 0.0678391959798995,
+      "share_ge_0.1_placebo": 0.008793969849246231,
+      "difference": 0.015520880530283398,
+      "firm_low": 0.013322222743178319,
+      "firm_high": 0.017719538317388477,
+      "two_way_low": 0.013124876184931371,
+      "two_way_high": 0.017916884875635426
+    },
+    "magnitudes_calibrated": {
+      "n": 1592,
+      "firms": 107,
+      "mean_abs_arm": 0.03596663087090393,
+      "mean_abs_placebo": 0.02390114254311053,
+      "median_abs_arm": 0.024124795185758597,
+      "median_abs_placebo": 0.017773114482158195,
+      "share_ge_0.1_arm": 0.06469849246231156,
+      "share_ge_0.1_placebo": 0.0043969849246231155,
+      "difference": 0.012065488327793403,
+      "firm_low": 0.010060246757779613,
+      "firm_high": 0.014070729897807192,
+      "two_way_low": 0.010288465254926283,
+      "two_way_high": 0.013842511400660522
+    }
+  },
+  "Llama 3.1 70B": {
+    "magnitudes": {
+      "n": 1592,
+      "firms": 107,
+      "mean_abs_arm": 0.06477040209992205,
+      "mean_abs_placebo": 0.022874654842669803,
+      "median_abs_arm": 0.017823446662734554,
+      "median_abs_placebo": 0.010955332719802868,
+      "share_ge_0.1_arm": 0.26884422110552764,
+      "share_ge_0.1_placebo": 0.03077889447236181,
+      "difference": 0.04189574725725225,
+      "firm_low": 0.03646282656109251,
+      "firm_high": 0.04732866795341199,
+      "two_way_low": 0.03326472003994991,
+      "two_way_high": 0.050526774474554594
+    },
+    "magnitudes_calibrated": {
+      "n": 1592,
+      "firms": 107,
+      "mean_abs_arm": 0.04665809291494367,
+      "mean_abs_placebo": 0.028678535631463754,
+      "median_abs_arm": 0.029830180841978644,
+      "median_abs_placebo": 0.019612191099077914,
+      "share_ge_0.1_arm": 0.11809045226130653,
+      "share_ge_0.1_placebo": 0.032035175879396985,
+      "difference": 0.0179795572834799,
+      "firm_low": 0.014919389178294858,
+      "firm_high": 0.02103972538866494,
+      "two_way_low": 0.013650474427681497,
+      "two_way_high": 0.022308640139278302
+    }
+  },
+  "gpt-oss-120b": {
+    "magnitudes": {
+      "n": 1592,
+      "firms": 107,
+      "mean_abs_arm": 0.14167807601567223,
+      "mean_abs_placebo": 0.12064949295136705,
+      "median_abs_arm": 0.1082751299580619,
+      "median_abs_placebo": 0.09585831395496967,
+      "share_ge_0.1_arm": 0.5326633165829145,
+      "share_ge_0.1_placebo": 0.4880653266331658,
+      "difference": 0.021028583064305155,
+      "firm_low": 0.011841170144414149,
+      "firm_high": 0.03021599598419616,
+      "two_way_low": 0.009749211722725002,
+      "two_way_high": 0.03230795440588531
+    }
+  },
+  "Muse Glimmer 30B": {
+    "magnitudes": {
+      "n": 1592,
+      "firms": 107,
+      "mean_abs_arm": 0.05976858461040943,
+      "mean_abs_placebo": 0.02374062888741126,
+      "median_abs_arm": 0.05428786094339115,
+      "median_abs_placebo": 0.01649388225219056,
+      "share_ge_0.1_arm": 0.16896984924623115,
+      "share_ge_0.1_placebo": 0.001256281407035176,
+      "difference": 0.036027955722998176,
+      "firm_low": 0.03280402758617478,
+      "firm_high": 0.03925188385982157,
+      "two_way_low": 0.031538349138256885,
+      "two_way_high": 0.040517562307739466
+    }
+  }
+}

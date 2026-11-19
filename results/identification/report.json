@@ -1,0 +1,686 @@
+{
+  "llama31-70b": {
+    "answers": 6368,
+    "firms_ever_identified_N": 1,
+    "N": {
+      "all": {
+        "rate": 0.000628140703517588,
+        "low": -0.0006158114574583475,
+        "high": 0.0018720928644935233,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0011862396204033216,
+        "low": -0.0011639633109062223,
+        "high": 0.0035364425517128654,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0011862396204033213,
+        "low": -0.0011639691188662876,
+        "high": 0.0035364483596729305
+      }
+    },
+    "NC": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      },
+      "N_minus_arm": {
+        "estimate": 0.000628140703517588,
+        "low": -0.000616006909130695,
+        "high": 0.001872288316165871
+      }
+    },
+    "Q": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      },
+      "N_minus_arm": {
+        "estimate": 0.000628140703517588,
+        "low": -0.000616006909130695,
+        "high": 0.001872288316165871
+      }
+    },
+    "R": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      },
+      "N_minus_arm": {
+        "estimate": 0.000628140703517588,
+        "low": -0.000616006909130695,
+        "high": 0.001872288316165871
+      }
+    },
+    "examples_correct_N": [
+      "Amazon.com, Inc. AMZN"
+    ],
+    "refusal_share": 0.9569723618090452,
+    "correct_share_all_arms": 0.000157035175879397,
+    "forced_choice": {
+      "scores": 6368,
+      "letter_shares": {
+        "B": 0.342,
+        "C": 0.261,
+        "E": 0.193,
+        "D": 0.171,
+        "A": 0.033
+      },
+      "N": {
+        "all": {
+          "rate": 0.3373115577889447,
+          "low": 0.2910706942741711,
+          "high": 0.38355242130371836,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.3428232502965601,
+          "low": 0.2923586194475081,
+          "high": 0.3932878811456121,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.33110814419225637,
+          "low": 0.27838865418520625,
+          "high": 0.3838276341993065,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": 0.011715106104303426,
+          "low": -0.03375914270940995,
+          "high": 0.05718935491801681
+        },
+        "mean_p_true": 0.2852569114055327
+      },
+      "NC": {
+        "all": {
+          "rate": 0.29773869346733667,
+          "low": 0.2552141942048704,
+          "high": 0.34026319272980293,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.2965599051008304,
+          "low": 0.24620176701977955,
+          "high": 0.3469180431818813,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.29906542056074764,
+          "low": 0.2537507793538297,
+          "high": 0.34438006176766556,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": -0.002505515459917413,
+          "low": -0.04730907519982129,
+          "high": 0.04229804427998647
+        },
+        "mean_p_true": 0.25917606257307735,
+        "N_minus_arm": {
+          "estimate": 0.03957286432160804,
+          "low": 0.008119628343131367,
+          "high": 0.07102610030008472
+        }
+      },
+      "Q": {
+        "all": {
+          "rate": 0.2983668341708543,
+          "low": 0.24993994366887162,
+          "high": 0.346793724672837,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.2846975088967972,
+          "low": 0.23307668500588832,
+          "high": 0.336318332787706,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.3137516688918558,
+          "low": 0.25887149737677206,
+          "high": 0.3686318404069395,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": -0.029054159995058775,
+          "low": -0.07317287521939386,
+          "high": 0.015064555229276314
+        },
+        "mean_p_true": 0.2555296427099345,
+        "N_minus_arm": {
+          "estimate": 0.03894472361809045,
+          "low": -0.0017891188554800264,
+          "high": 0.07967856609166092
+        }
+      },
+      "R": {
+        "all": {
+          "rate": 0.27072864321608037,
+          "low": 0.22584706366057317,
+          "high": 0.31561022277158757,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.26690391459074736,
+          "low": 0.21754812341495877,
+          "high": 0.31625970576653595,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.2750333778371161,
+          "low": 0.2256140401275913,
+          "high": 0.32445271554664096,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": -0.008129463246368934,
+          "low": -0.04943564992177042,
+          "high": 0.03317672342903255
+        },
+        "mean_p_true": 0.24252617916054067,
+        "N_minus_arm": {
+          "estimate": 0.06658291457286432,
+          "low": 0.03396634562267565,
+          "high": 0.099199483523053
+        }
+      },
+      "industry_matching": {
+        "N": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.350940017905103,
+            "low": 0.29977786715498433,
+            "high": 0.40210216865522164,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.3052631578947367,
+            "low": 0.24320049947122643,
+            "high": 0.36732581631824696,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.1061611374407583,
+            "low": 0.07839576472240191,
+            "high": 0.1339265101591147,
+            "n": 1055
+          },
+          "wrong_answers_same_industry_chance": 0.09976303317535545
+        },
+        "NC": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.3133393017009848,
+            "low": 0.26866437126151455,
+            "high": 0.358014232140455,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.26105263157894726,
+            "low": 0.20275422553114833,
+            "high": 0.3193510376267462,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.10465116279069768,
+            "low": 0.07869900014000156,
+            "high": 0.1306033254413938,
+            "n": 1118
+          },
+          "wrong_answers_same_industry_chance": 0.10107334525939177
+        },
+        "Q": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.3196060877350045,
+            "low": 0.2674586160815384,
+            "high": 0.37175355938847054,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.24842105263157885,
+            "low": 0.179644423681846,
+            "high": 0.3171976815813117,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.05729632945389436,
+            "low": 0.04198456818395531,
+            "high": 0.07260809072383341,
+            "n": 1117
+          },
+          "wrong_answers_same_industry_chance": 0.10205908683974933
+        },
+        "R": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.3106535362578335,
+            "low": 0.2631457294855131,
+            "high": 0.35816134303015384,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.17684210526315786,
+            "low": 0.12200483764085115,
+            "high": 0.23167937288546456,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.07493540051679587,
+            "low": 0.056775443689154825,
+            "high": 0.09309535734443691,
+            "n": 1161
+          },
+          "wrong_answers_same_industry_chance": 0.10723514211886305
+        }
+      }
+    }
+  },
+  "llama31-8b": {
+    "answers": 6368,
+    "firms_ever_identified_N": 0,
+    "N": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      }
+    },
+    "NC": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      },
+      "N_minus_arm": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      }
+    },
+    "Q": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      },
+      "N_minus_arm": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      }
+    },
+    "R": {
+      "all": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 1592
+      },
+      "exposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 843
+      },
+      "unexposed": {
+        "rate": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "n": 749
+      },
+      "exposed_minus_unexposed": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      },
+      "N_minus_arm": {
+        "estimate": 0.0,
+        "low": 0.0,
+        "high": 0.0
+      }
+    },
+    "examples_correct_N": [],
+    "refusal_share": 1.0,
+    "correct_share_all_arms": 0.0,
+    "forced_choice": {
+      "scores": 6368,
+      "letter_shares": {
+        "A": 0.353,
+        "D": 0.293,
+        "E": 0.238,
+        "B": 0.087,
+        "C": 0.028
+      },
+      "N": {
+        "all": {
+          "rate": 0.22110552763819097,
+          "low": 0.18872431113941734,
+          "high": 0.2534867441369646,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.22894424673784103,
+          "low": 0.19443158916094766,
+          "high": 0.2634569043147344,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.21228304405874493,
+          "low": 0.17159971901826837,
+          "high": 0.2529663690992215,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": 0.016661202679095967,
+          "low": -0.02130798554793273,
+          "high": 0.05463039090612466
+        },
+        "mean_p_true": 0.2107847866940541
+      },
+      "NC": {
+        "all": {
+          "rate": 0.22550251256281406,
+          "low": 0.19538690840163872,
+          "high": 0.2556181167239894,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.2111506524317912,
+          "low": 0.17733118772131432,
+          "high": 0.2449701171422681,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.24165554072096118,
+          "low": 0.20482391156227675,
+          "high": 0.2784871698796456,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": -0.030504888289170144,
+          "low": -0.0673334190359027,
+          "high": 0.006323642457562412
+        },
+        "mean_p_true": 0.20876031726575509,
+        "N_minus_arm": {
+          "estimate": -0.004396984924623116,
+          "low": -0.029175598141193422,
+          "high": 0.020381628291947188
+        }
+      },
+      "Q": {
+        "all": {
+          "rate": 0.20854271356783918,
+          "low": 0.1725483881059692,
+          "high": 0.24453703902970916,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.22064056939501775,
+          "low": 0.1797422934978471,
+          "high": 0.2615388452921884,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.1949265687583444,
+          "low": 0.1537055636772908,
+          "high": 0.23614757383939802,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": 0.025714000636673263,
+          "low": -0.013704574811871303,
+          "high": 0.06513257608521783
+        },
+        "mean_p_true": 0.2063927107662597,
+        "N_minus_arm": {
+          "estimate": 0.012562814070351763,
+          "low": -0.014266929488502665,
+          "high": 0.03939255762920619
+        }
+      },
+      "R": {
+        "all": {
+          "rate": 0.20477386934673367,
+          "low": 0.16892333512071303,
+          "high": 0.2406244035727543,
+          "n": 1592
+        },
+        "exposed": {
+          "rate": 0.18861209964412806,
+          "low": 0.15041521883296943,
+          "high": 0.2268089804552867,
+          "n": 843
+        },
+        "unexposed": {
+          "rate": 0.2229639519359145,
+          "low": 0.18036619822205704,
+          "high": 0.265561705649772,
+          "n": 749
+        },
+        "exposed_minus_unexposed": {
+          "estimate": -0.034351852291786514,
+          "low": -0.07155406828706688,
+          "high": 0.002850363703493855
+        },
+        "mean_p_true": 0.20069451967283505,
+        "N_minus_arm": {
+          "estimate": 0.016331658291457295,
+          "low": -0.014553691316247105,
+          "high": 0.047217007899161695
+        }
+      },
+      "industry_matching": {
+        "N": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.21217547000895254,
+            "low": 0.17501875143963336,
+            "high": 0.24933218857827172,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.24210526315789466,
+            "low": 0.19628631051186035,
+            "high": 0.28792421580392896,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.10403225806451613,
+            "low": 0.0794391008610071,
+            "high": 0.12862541526802518,
+            "n": 1240
+          },
+          "wrong_answers_same_industry_chance": 0.09233870967741936
+        },
+        "NC": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.22829006266786034,
+            "low": 0.19226310700474666,
+            "high": 0.264317018330974,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.21894736842105256,
+            "low": 0.17561760028652174,
+            "high": 0.2622771365555834,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.0997566909975669,
+            "low": 0.07675001319205817,
+            "high": 0.12276336880307563,
+            "n": 1233
+          },
+          "wrong_answers_same_industry_chance": 0.09407948094079481
+        },
+        "Q": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.20053715308863024,
+            "low": 0.1600550550756487,
+            "high": 0.24101925110161176,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.2273684210526315,
+            "low": 0.1729786180625784,
+            "high": 0.2817582240426846,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.09841269841269841,
+            "low": 0.07513222988134177,
+            "high": 0.12169316694405505,
+            "n": 1260
+          },
+          "wrong_answers_same_industry_chance": 0.09305555555555556
+        },
+        "R": {
+          "share_with_same_industry_distractor": 0.29836683417085424,
+          "accuracy_no_same_industry_distractor": {
+            "rate": 0.21486123545210384,
+            "low": 0.17274367529284745,
+            "high": 0.2569787956113602,
+            "n": 1117
+          },
+          "accuracy_with_same_industry_distractor": {
+            "rate": 0.18105263157894733,
+            "low": 0.1324131577928749,
+            "high": 0.22969210536501974,
+            "n": 475
+          },
+          "wrong_answers_same_industry": {
+            "rate": 0.09320695102685625,
+            "low": 0.07000708094417157,
+            "high": 0.11640682110954093,
+            "n": 1266
+          },
+          "wrong_answers_same_industry_chance": 0.0985387045813586
+        }
+      }
+    }
+  }
+}

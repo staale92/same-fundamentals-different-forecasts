@@ -1,0 +1,37 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "served_model": "accounts/fireworks/models/gpt-oss-120b",
+  "serving": "Fireworks serverless",
+  "tokenizer": {
+    "source": "openai/gpt-oss-120b",
+    "revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a",
+    "files": {
+      "chat_template.jinja": "a4c9919cbbd4acdd51ccffe22da049264b1b73e59055fa58811a99efbd7c8146",
+      "generation_config.json": "f9970ada892d2d1f72e3ed0a6535ccebadd11897318794ca671d8c7014c957da",
+      "special_tokens_map.json": "dd5e191d20c12d2fee1da5bae14ca1db0f5f4215300af691f23cdee97120a293",
+      "tokenizer.json": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3",
+      "tokenizer_config.json": "9279e942392b742d633c7adbb89ebe002c98399db8926a7af5125c726f404070"
+    }
+  },
+  "panel_sha256": "810c7a93075c4bc56b10630b5b35c3b546cdccff7ed7c99298173eea54c37f15",
+  "seed": 2026,
+  "cutoff": "2024-06-01",
+  "response_mode": "final",
+  "template_kwargs": {
+    "reasoning_effort": "low"
+  },
+  "fixed_template_date": "2026-10-16",
+  "probability_method": "arithmetic mean of two label-swapped conditional A/B token probabilities; echoed last-token log probabilities",
+  "packages": {
+    "transformers": "5.19.0",
+    "tokenizers": "0.23.3"
+  },
+  "source_hashes": {
+    "token_inference.py": "ccdd0489d78a0fc5f4e831bba0421f08ea3fb0bfba58c60ca2b7b2071b4fdd1e",
+    "transforms.py": "8494e8cecbf88b41f9213a63aad2edbe34b45647a85b92127f5937f128059d1f",
+    "schema.py": "a2a35c7ba0f969e6c1040cafbe815003358188a57173941a2ab470d86537f2b7",
+    "prompts.py": "a8377451c0b2ef8f1bc0062c180b0a545e7866321db27e65cd3f83233ea11a56"
+  },
+  "started_utc": "2026-10-16T03:26:45.689545+00:00",
+  "inference_driver_sha256": "c6d7f52aae34d3d785b50486cf355a33bea11981dcd8d3c53d4a1a1f3f45cda7"
+}

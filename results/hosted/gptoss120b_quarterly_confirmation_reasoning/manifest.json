@@ -1,0 +1,27 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "served_model": "accounts/fireworks/models/gpt-oss-120b",
+  "serving": "Fireworks serverless",
+  "panel_sha256": "b08b5f1651c97c01f33e99633c06e42384dbe61dcb804bad1127fb877eceeaea",
+  "arms": [
+    "N",
+    "N_p1",
+    "NC"
+  ],
+  "cutoff": "2024-06-01",
+  "seed": 2026,
+  "system_message": "You are a financial analyst. Treat reporting units and explicitly disclosed currency conversions consistently.",
+  "reasoning_effort": "medium",
+  "max_tokens": 8192,
+  "decoding": "temperature 0",
+  "request_template": "Analyze the observed trends and relevant financial ratios. Provide a concise evidence summary (at most 100 words), then one final JSON object with probability_percent (a number from 0 to 100) and direction (UP if probability_percent is at least 50, otherwise DOWN) for whether the next annual filing reports an increase in basic EPS over its own comparable prior-year EPS, using a consistent share basis. That comparable prior-year EPS can differ from the Current figure shown here after restatement or share-basis adjustments.",
+  "quarterly_target": "whether basic EPS in the next fiscal quarter increases over its comparable same quarter one year earlier, on the share basis reported in that outcome filing",
+  "source_hashes": {
+    "prompts.py": "a8377451c0b2ef8f1bc0062c180b0a545e7866321db27e65cd3f83233ea11a56",
+    "transforms.py": "386317b5b1da19340bd80d9cc9ddc31939ba7580d59d8ccf73aa39dfb2683fd5",
+    "schema.py": "a2a35c7ba0f969e6c1040cafbe815003358188a57173941a2ab470d86537f2b7"
+  },
+  "started_utc": "2026-11-17T19:02:02.114932+00:00",
+  "inference_driver_sha256": "b65cef084cd3e8dcd8040a3e8a804d959a56a217cdf0348d34be52a140a2dd06",
+  "provider_template": "Rendered by the provider; its system header states \"Knowledge cutoff: 2024-06\", the run date as \"Current date\", and \"Reasoning: medium\". The supplied system message becomes the developer message."
+}
