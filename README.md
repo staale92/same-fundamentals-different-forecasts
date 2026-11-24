@@ -2,6 +2,8 @@
 
 Replication code for **Same Fundamentals, Different Forecasts: Auditing Memory in LLM Financial Statement Analysis**, by Alessio Staffini, Trust Co., Ltd.
 
+This research was carried out while the author was employed at Trust Co., Ltd.
+
 The study tests whether economically equivalent presentations of SEC financial statements change language-model forecasts of earnings direction. This repository contains the financial panels, saved model probabilities, statement transformations, statistical analyses, and figures. Reproducing the statistics requires no model download, inference service, or credentials.
 
 Contact: alessio_staffini@trust-partner.co.jp
